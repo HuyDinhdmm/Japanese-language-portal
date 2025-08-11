@@ -1,0 +1,114 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see the transcript starts with "問題3の例のところを見てください" which seems to be an example for problem 3. Then it says "1番いいものは3番です" indicating the correct answer is option 3. But since the user mentioned to ignore examples and instructions, I should skip this part.
+
+Next, the transcript mentions "1番ネクタイを選んでいます。友達の意見が聞きたいです。何と言いますか?" This looks like the first question. The options provided are three, so it's a response-type question. I'll format it accordingly, making sure to include all three options and set the correct answer as 3.
+
+Moving on, the second question is about what to say when meeting someone you haven't seen in a long time. The options are three again, so another response-type question. The correct answer is 3, which is "お久しぶりです".
+
+The third question is about calling in sick to school. The options are three, and the correct answer is 2, "先生、今日は休ませてください".
+
+The fourth question is about a friend forgetting their textbook. The options are three, and the correct answer is 1, "一緒に見る".
+
+The fifth question is about an unknown visitor. The options are three, and the correct answer is 2, "どちら様ですか？".
+
+I need to make sure each question follows the correct format, with the introduction, conversation, question, options, and correct answer. Also, I should remove any unrelated phrases and ensure no extra text is included. Each question should be properly enclosed within the <question> tags and formatted as specified.
+
+I think that's all the questions from the transcript. I'll structure each one accordingly, ensuring the correct number of options and proper formatting.
+</think>
+
+<question>
+Introduction:
+1番ネクタイを選んでいます。友達の意見が聞きたいです。何と言いますか?
+
+Conversation:
+1. どっちがいい
+2. これ来てもいい
+3. 両方いいと思うよ
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. どっちがいい
+2. これ来てもいい
+3. 両方いいと思うよ
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+長く会っていなかった人に会いました。何と言いますか?
+
+Conversation:
+1. おかげ様で
+2. お大事に
+3. お久しぶりです
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. おかげ様で
+2. お大事に
+3. お久しぶりです
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+熱があるので学校を休みたいです。電話で先生に何と言いますか?
+
+Conversation:
+1. 先生、今日は休んだ方がいいです
+2. 先生、今日は休ませてください
+3. 先生、今日はお休みです
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 先生、今日は休んだ方がいいです
+2. 先生、今日は休ませてください
+3. 先生、今日はお休みです
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+友達が教科書を忘れました。友達に何と言いますか?
+
+Conversation:
+1. 一緒に見る
+2. ちょっとてもらえる
+3. ごめん、見せてくれ
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 一緒に見る
+2. ちょっとてもらえる
+3. ごめん、見せてくれ
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+うちに誰か来ました。知らない人です。何と言いますか?
+
+Conversation:
+1. あの、どなたかいませんか
+2. どちら様ですか？
+3. ちょっとわかりません
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. あの、どなたかいませんか
+2. どちら様ですか？
+3. ちょっとわかりません
+CorrectAnswer: 2
+</question>

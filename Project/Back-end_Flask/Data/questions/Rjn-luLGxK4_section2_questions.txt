@@ -1,0 +1,153 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through it step by step.
+
+First, I see the transcript starts with some instructions about the test, like problem 2 and how to approach it. I should ignore those parts as they're not actual questions.
+
+Looking further, I notice several numbered sections: 1番, 2番, etc. These are likely the individual questions. Each seems to have a conversation and then a question with options.
+
+For each question, I'll need to identify the introduction, the conversation, the question itself, and the options. The correct answer is also provided, so I should note that as well.
+
+Starting with 1番, the conversation is between a man and a woman talking about why the woman stopped going to the beauty parlor. The options are about her reasons, and the correct answer is 1. I'll format this as per the specified structure.
+
+Next is 2番, where a guide is explaining the itinerary. The question is about the order of places they'll visit. The options are the possible sequences, and the correct answer is 3. I'll make sure to list the options correctly.
+
+3番 is about someone talking about cookies with messages. The question is what's impressive about them, and the options are different aspects. The correct answer is 2. I'll structure this similarly.
+
+4番 involves a teacher discussing the class's goal. The options are about what they focus on, and the correct answer is 4. I'll extract this information accurately.
+
+5番 is a conversation about books. The question is about the man's choice, with options as different book titles. The correct answer is 1. I'll format this without any extra text.
+
+6番 is about a designer explaining what they value. The options are different aspects of design, and the correct answer is 3. I'll ensure all options are included.
+
+I need to make sure each question follows the correct format, with exactly 4 options and the right structure. I'll avoid any headers or explanations, just the necessary parts. Also, I'll remove any unrelated phrases like the initial instructions.
+
+Finally, I'll double-check each extracted question to ensure all fields are present and correctly formatted, with the correct answer indicated. This way, each question is properly structured for the JLPT format.
+</think>
+
+<question>
+Introduction:
+女の人が美容院へ行くのをやめた理由を聞いています。
+
+Conversation:
+女: どうして美容院へ行くのをやめたのですか。
+男: あれ、行かないの。午後美容院予約したって言ってたじゃないですか。
+女: じゃないうんそうだったんだけどやめたのま。天気悪いしね。こんな雨の日に行くことないよね。
+男: 雨は別にいいんだけどね、仕事終わらないんだ。
+女: うんそれは大体終わったじゃなんで。他に用事でもあるの。わざわざ美容院のためだけに出かけるのもどうかなと思って。
+男: そうだね。何かのついでならいいけど。
+女: そうだね。結構かかるのよね。交通費ってそうだよ。
+
+Question:
+女の人はどうして美容院へ行くのをやめたのですか。
+
+Options:
+1. 仕事が終わらないから
+2. 雨の日だから
+3. 交通費がかかるから
+4. 他の用事があるから
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+ガイドが今日の予定を説明しています。
+
+Conversation:
+ガイド: 今日は3つの場所をご案内します。まずは潜伏寺、それから清水子という湖、最後に山中温泉のホテルです。潜伏寺から湖まで少し山道を歩き、途中有名な8万神社があります。湖では船に乗った後、バスでホテルにご案内します。
+
+Question:
+どういう順番で回りますか。
+
+Options:
+1. 潜伏寺 → 湖 → ホテル
+2. 湖 → 潜伏寺 → ホテル
+3. ホテル → 潜伏寺 → 湖
+4. 潜伏寺 → 8万神社 → 湖 → ホテル
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+クッキーについて話しています。
+
+Conversation:
+女性: このクッキー、すごいよ。中に入っているメッセージが私の気持ちを分かって答えてくれるみたい。
+男性: へえ、今日勉強が進まなくてどうしようと思ってクッキー食べたんだ。メッセージ何だったと思う？
+女性: 「頑張って」と言ってたよ。
+
+Question:
+何がすごいと言っていますか。
+
+Options:
+1. クッキーの味がすごい
+2. メッセージがすごい
+3. クッキーの形がすごい
+4. クッキーの価格がすごい
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+先生が授業の目標について話しています。
+
+Conversation:
+先生: 歴史の勉強はいつ何があったのかたくさん覚えなければいけないので大変だと思われます。昔の人の名前を覚えるのも難しいかもしれません。どちらも歴史の勉強には大切なことです。しかし、このクラスでは覚えるより考えることを大切にします。いつ何があったかを覚えるより、どうしてその出来事が起こったのかということを考えていこうと思います。
+
+Question:
+このクラスの目標は何ですか。
+
+Options:
+1. たくさん歴史の出来事を覚えること
+2. 昔の人の名前を覚えること
+3. いつ何があったかを覚えること
+4. その出来事が起こった理由を考えること
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+男と女が本について話しています。
+
+Conversation:
+女: 佐藤さん、何の本読んでるの？
+男: 赤い山っていう歴史小説。
+女: 日本の？なんか読もうか。みんなどんな本読んでるんだろう。
+男: そうね。海の友達っていう本みんな面白いって言ってるわよ。
+女: でも私の1番のおすすめは海の見える家。老人と子供の話なんだけど、最近読んだ中で1番のおすすめ。
+男: 海の見える家ね。アジアの青空もいいわよ。インドや太陽旅行した話。私行きたくなっちゃう。
+女: へえ、面白そうだね。でも今回は佐藤さんの1番のおすすめを読んでみようかな。じゃあ明日持ってきてあげる。
+
+Question:
+男の人が読もうと思っている本は何ですか。
+
+Options:
+1. 赤い山
+2. 海の友達
+3. 海の見える家
+4. アジアの青空
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+テレビでデザイナーが話しています。
+
+Conversation:
+デザイナー: 新しい製品をデザインする時、色々なことを考えなければなりません。デザイン、色、形、大きさ、使いやすさ、値段など。デザイナーによって考え方は違いますが、私は特に子供にも高齢者にも簡単に使えることが大事だと思っています。大きさや形は自然に決まっていくものだと思います。
+
+Question:
+このデザイナーが大切にしていることは何ですか。
+
+Options:
+1. 製品の色
+2. 製品の形
+3. 製品が子供や高齢者に使いやすいこと
+4. 製品の値段
+
+CorrectAnswer: 3
+</question>

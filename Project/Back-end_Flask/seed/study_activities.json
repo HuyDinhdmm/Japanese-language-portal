@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Flash cards game",
+        "url": "/activities/basic-verbs",
+        "preview_url": "/previews/basic-verbs.jpg",
+        "description": "Practice basic Japanese verbs with interactive exercises",
+        "release_date": "2024-03-19",
+        "average_duration": 15,
+        "focus": "verbs"
+    },
+    {
+        "name": "Word Scramble Game",
+        "url": "/activities/adjectives-quiz",
+        "preview_url": "/previews/adjectives-quiz.jpg",
+        "description": "Test your knowledge of Japanese adjectives",
+        "release_date": "2024-03-19",
+        "average_duration": 10,
+        "focus": "adjectives"
+    }
+] 

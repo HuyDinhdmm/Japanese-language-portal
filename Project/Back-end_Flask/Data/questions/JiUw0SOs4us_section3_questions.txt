@@ -1,0 +1,88 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see "問題3" which is question 3. It mentions looking at a picture and selecting the correct answer from options 1 to 3. The first part is about asking to see shelves in a store. The options are:
+
+1. あれ見たいです
+2. あれ見せてください
+3. あれ見てください
+
+I need to format this as a question with introduction, conversation, question, options, and correct answer. Since it's a 3-option response-type question, I'll use the second format.
+
+Next, the second part of question 3 is about what to say when a customer arrives. The options are:
+
+1. よく参りました
+2. よくいらっしゃいました
+3. よくお出かけしますね
+
+Again, this is a 3-option question, so I'll format it accordingly.
+
+The third part of question 3 is about asking a teacher to listen to something. The options are:
+
+1. お話をお聞かせくださいませんか
+2. お話を聞かせてもよろしいでしょうか
+3. お話を聞かれても構いません
+
+This is another 3-option question, so I'll structure it the same way.
+
+Then, question 4 starts, but the transcript cuts off. It seems incomplete, so I'll ignore it as per the instructions to only extract real questions.
+
+I need to make sure each question has exactly 3 options, the correct answer is specified, and no extra text is included. I'll format each question properly without any headers or explanations.
+</think>
+
+<question>
+Introduction:
+店で棚のカが見たいです
+
+Conversation:
+1. あれ見たいです
+2. あれ見せてください
+3. あれ見てください
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. あれ見たいです
+2. あれ見せてください
+3. あれ見てください
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+お客さんが来ました
+
+Conversation:
+1. よく参りました
+2. よくいらっしゃいました
+3. よくお出かけしますね
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. よく参りました
+2. よくいらっしゃいました
+3. よくお出かけしますね
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+先生に話が聞きたいです
+
+Conversation:
+1. お話をお聞かせくださいませんか
+2. お話を聞かせてもよろしいでしょうか
+3. お話を聞かれても構いません
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. お話をお聞かせくださいませんか
+2. お話を聞かせてもよろしいでしょうか
+3. お話を聞かれても構いません
+CorrectAnswer: 1
+</question>

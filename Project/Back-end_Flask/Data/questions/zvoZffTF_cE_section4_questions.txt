@@ -1,0 +1,91 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see "問題4" which indicates the start of question 4. The instructions mention that there are no pictures, just text, and the task is to choose the best response from options 1 to 3.
+
+Looking at the transcript, the first part after the problem number is the introduction: "1番試験はいつからですか". Then the options are provided as 1.数学からです。2.25日からです。3.32階の教室です。 So, this is the first question. I'll format it accordingly, making sure to include the introduction, conversation, question, options, and correct answer.
+
+Next, the second situation is "2番 すみませんここに座ってもいいですか". The options are 1.ええ、どうぞ。2.はい、座っていました。3.そうだと思います。 This is the second question. I'll structure it similarly, ensuring all fields are filled correctly.
+
+The third situation is "3番 メアリーさんは漢字が読めますか". The options are 1.はい、読めません。2.はい、読んだことがあります。3.はい、読めます。 This is the third question. I'll format it as per the rules.
+
+The fourth situation is "仕事は終わりましたか". The options are 1.はい、だいぶ終わっていません。2.はい、まだ終わっていません。3.はい、もう終わりましたよ。 This is the fourth question. I'll make sure to include all necessary parts.
+
+I need to ensure each question has exactly three options and that the correct answer is specified. Also, I must avoid any extra text or explanations, just the structured data as per the user's instructions. I'll double-check each question to make sure all fields are correctly filled and that the correct answer is accurately noted.
+</think>
+
+<question>
+Introduction:
+1番試験はいつからですか
+
+Conversation:
+1.数学からです。
+2.25日からです。
+3.32階の教室です。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 数学からです。
+2. 25日からです。
+3. 32階の教室です。
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+2番 すみませんここに座ってもいいですか
+
+Conversation:
+1.ええ、どうぞ。
+2.はい、座っていました。
+3.そうだと思います。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. ええ、どうぞ。
+2. はい、座っていました。
+3. そうだと思います。
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+3番 メアリーさんは漢字が読めますか
+
+Conversation:
+1.はい、読めません。
+2.はい、読んだことがあります。
+3.はい、読めます。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. はい、読めません。
+2. はい、読んだことがあります。
+3. はい、読めます。
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+仕事は終わりましたか
+
+Conversation:
+1.はい、だいぶ終わっていません。
+2.はい、まだ終わっていません。
+3.はい、もう終わりましたよ。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. はい、だいぶ終わっていません。
+2. はい、まだ終わっていません。
+3. はい、もう終わりましたよ。
+CorrectAnswer: 3
+</question>

@@ -1,0 +1,176 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each part step by step.
+
+First, I'll identify the sections that are actual test questions. The transcript starts with "問題2の例のところを見てください" which seems like an example, so I'll skip that. Then it goes into "1番ラジオでアナウンサーが話しています" which is the first question.
+
+For question 1, the introduction is about a radio announcer talking about what people do on their mothers' birthdays. The conversation includes a survey of 60 university students, with the most common answers being dining together, giving flowers or clothes, sending letters or cards, and making cakes. The question asks what most people do, and the options are based on the survey results. The correct answer is the first option, which had 30 people.
+
+Moving on to question 2, the scenario is a part-time male worker apologizing to a female store clerk for being late. The reason was a traffic jam, and he forgot his phone. The question is about why he was late, with options including traffic jams, forgetting his phone, and running late because of a bike. The correct answer is the first option.
+
+Question 3 involves a phone call to a restaurant. The man is changing his reservation because someone can't eat tomatoes. They offer a carrot salad instead. The question is why he called, with options about changing the menu, canceling, or inquiring about time. The correct answer is the first option.
+
+Question 4 is a conversation between a man and a woman at work. The woman couldn't return to her country last year because she had a baby. The question is why she didn't go back, with options including having a baby, work, and studies. The correct answer is the first option.
+
+Question 5 is between a teacher and a student discussing a test. The teacher mentions that the test had many simple grammar mistakes. The question is what the teacher pointed out, with options about grammar, length, and handwriting. The correct answer is the first option.
+
+Question 6 is a self-introduction by a female student. She wants to visit old stations and inns during summer. The question is about her summer plans, with options including visiting old places, cooking, and teaching dance. The correct answer is the first option.
+
+Finally, question 7 is a conversation between a man and a woman about exercise. The man exercises about once a week. The question is how often he exercises, with options from every day to once a month. The correct answer is the third option.
+
+I need to make sure each question follows the specified format, with the correct number of options and the right correct answer. I'll structure each question accordingly, ensuring no extra text or explanations are included.
+</think>
+
+<question>
+Introduction:
+ラジオでアナウンサーが話しています。 お母さんの誕生日に何をする人が1番多いと言っていますか。
+
+Conversation:
+アナウンサー：お母さんの誕生日に何をするのが1番多いと言っていますか。大学生60人に聞いてみました。最も多かったのは一緒に食事するという人で30人。花や洋服をプレゼントする人が15人。手紙やカードを送るのが10人。ケーキを作るのが5人でした。
+
+Question:
+お母さんの誕生日に何をするのが一番多いと言っていますか。
+
+Options:
+1. 一緒に食事をする
+2. 花や洋服をプレゼントする
+3. 手紙やカードを送る
+4. ケーキを作る
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+店で男のアルバイトの人と女の店員が話しています。
+
+Conversation:
+男：遅れてすみません。
+女：山下さん今日はいつもより早い時間からなので時間を間違えましたか。
+男：はい。すみません。大学の授業が終わってすぐにバイクで出たんですが道がすごく混んでいたんです。
+女：そうんな時は必ず連絡してくださいね。うちに携帯電話を忘れてしまって取りに帰る時間がなかったんです。それで連絡できませんでした。
+男：すみませんでした。
+
+Question:
+男のアルバイトの人はどうして遅れましたか。
+
+Options:
+1. 道が混んでいたため
+2. 携帯電話を忘れたため
+3. バイクが壊れたため
+4. 他の用事ができたため
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+電話でレストランの人と男の人が話しています。
+
+Conversation:
+男：レストラン緑です。12日の6時に5人で予約した石田です。
+女：12日金曜日夜6時にご予約の石田様でございますね。
+男：あのすみません。インターネットでメニューの写真を見ましたが予約したメニューのサラダにトマトが入っていますね。食べられない人がいるんです。
+女：そうですか。ニンジンのサラダはいかがですか。
+男：ニンジンはみんな大丈夫です。お願いします。
+女：あのケーキは何のケーキですか。
+男：かぼちゃのケーキですがよろしいですか。
+女：はい。12日の6時に行きますよろしくお願いします。
+
+Question:
+男の人はどうしてレストランに電話をかけましたか。
+
+Options:
+1. メニューを変更したいので
+2. 予約をキャンセルしたいので
+3. 予約時間を変更したいので
+4. メニュー内容を確認したいので
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+会社で男の人と女の人が話しています。
+
+Conversation:
+女：もうすぐ夏休みですね。サラさん何か予定はありますか。
+男：はい。国に帰るつもりです。
+女：いいですね。毎年帰っているんですか。
+男：昨年までは毎年帰っていたんですけど去年は子供が生まれて世話が大変で帰れなかったんです。
+女：そうですか。私も旅行に行こうと思ったんですが席がなくて飛行機のチケットが取れません。
+男：私はついチケットを探すのが大変でした。
+
+Question:
+女の人はどうして去年国に帰りませんでしたか。
+
+Options:
+1. 子供が生まれて大変だったため
+2. チケットが取れなかったため
+3. 工作が忙しかったため
+4. お金がなかったため
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+先生と学生が昨日の作分のテストについて話しています。
+
+Conversation:
+先生：昨日の作分のテストはどうでしたか。
+学生：ちょっと長く書けなくて。
+先生：そうね。書いてあることはとてもいいですよ。字も綺麗だしね。
+学生：でも簡単な文法をたくさん間違えてしまいましたね。
+先生：注意すればもっと良くなりますよ。
+学生：そうですか。漢字もちょっと。
+先生：漢字はよくかけていましたよ。
+
+Question:
+先生はどんなことが一番良くなかったと言っていますか。
+
+Options:
+1. 文法の間違い
+2. 書く速度
+3. 字の汚さ
+4. 漢字の数
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の学生が自己紹介をしています。
+
+Conversation:
+女：初めまして佐藤花子です。今日本の建物について勉強しています。今度の夏休みには古い駅や旅館を見ることがしたいと思っています。趣味は料理とそれから音楽。休みには子供にダンスを教えています。どうぞよろしくお願いします。
+
+Question:
+女の学生は夏休みに何がしたいと言っているますか。
+
+Options:
+1. 古い駅や旅館を見る
+2. 料理を習う
+3. 音楽会に行く
+4. ダンスを教える
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の人と男の人が話しています。
+
+Conversation:
+女：男の人です。最近運動しているの去年までは毎日走っていたんだけど最近忙しいから全然走っていないよ。でも1週間に1回ぐらいは何かしている。月に1回友達とテニスをしているけど他には何もしていない。うーん月に1回友達とテニスをしているけど他には何もしていない。本当は1週間に1回は運動したいんだけどなかなか。そう忙しくてももう少し何かした方がいいと思うよ。私は1週間に2回は運動をしていますよ。
+
+Question:
+男の人は最近どのぐらい運動をしていますか。
+
+Options:
+1. 毎日
+2. 1週間に1回
+3. 1週間に2回
+4. 月に1回
+
+CorrectAnswer: 3
+</question>

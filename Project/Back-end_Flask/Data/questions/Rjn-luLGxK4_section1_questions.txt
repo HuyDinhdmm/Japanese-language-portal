@@ -1,0 +1,205 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see the transcript starts with some instructions and an example. I should ignore those as per the rules. The actual questions start after that.
+
+Looking at the first question, it's about a woman having trouble with her computer. The conversation is between two people discussing whether to buy a new one or wait. The options are given, and the correct answer is 4. I'll format this as the first question.
+
+Next, the second question is about reserving a room at a volunteer center. The conversation mentions that reservations can be made from the homepage, even though it's early. The correct answer is 1. I'll structure this as the second question.
+
+The third question involves two people deciding where to have lunch. They discuss various options like Italian, Japanese, bringing bento, or going to a Western restaurant. They decide on their usual place, which is option 3. I'll format this accordingly.
+
+Moving on, the fourth question is about a store getting busy in December and needing part-time help. They talk about asking acquaintances or putting up a help wanted sign. The correct answer is 2. I'll set this up as the fourth question.
+
+The fifth question is about a man choosing a car. He considers a stylish car but opts for a practical one with a large door. The correct answer is 2. I'll structure this as the fifth question.
+
+The sixth question involves a man and woman planning their day at the department store. They decide to split up and meet later. The correct answer is 2. I'll format this as the sixth question.
+
+Finally, the seventh question is about a subordinate handling tasks after a meeting, including copying documents and checking the microphone. The correct answer is 1. I'll set this up as the seventh question.
+
+I need to ensure each question follows the correct format, with the introduction, conversation, question, options, and correct answer. I'll make sure there are no extra explanations or translations, just the required fields in Japanese. Also, I'll check that each question has exactly 4 options and the correct answer is properly noted.
+</think>
+
+<question>
+Introduction:
+問題1ではまず質問を聞いてください、それから話を聞いて、問題用紙の1から4の中から最も良いものを1つ選んでください。
+
+Conversation:
+女の人はパソコンのことで困っています。女の人はどうしますか。
+かうん、まあどうしたの？このパソコン遅くて遅くて、これじゃ仕事にならない。
+駅前にパソコンを見てくくれるとこがあったよ、1万円とか取られるよね。
+それなら買っちゃった方がいいんじゃない、安いよ。
+今そうも思うんだけど、ちょっとね、今苦しくてそっかじゃ我慢するしかないね。
+そうだね。女の人はどうしますか。
+
+Question:
+女の人はどうしますか。
+
+Options:
+1. 新しいパソコンを買います。
+2. 旧いパソコンを直します。
+3. 我慢して現在のパソコンを使います。
+4. 友達に相談します。
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+2番、男の人と女の人がボランティアセンターの部屋を予約しようとしています。
+
+Conversation:
+いつ申し込まなければなりませんか。
+会の部屋、どうする？早くしないと取れないよ。
+ここの予約ってどうするんだっけ？ホームページから予約するんだって。
+もうできるの、来年の3月だよ、まだ早いんじゃないわ。
+これ見て、6ヶ月前からできるんだって。
+えもう6ヶ月ないじゃない。いつ申し込まなければなりませんか。
+
+Question:
+いつ申し込まなければなりませんか。
+
+Options:
+1. 6ヶ月前
+2. 3ヶ月前
+3. 1ヶ月前
+4. 1週間前
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+3番、男の人と女の人が会社で昼ご飯のことを話しています。
+
+Conversation:
+2人は昼ご飯をどこで食べますか。
+もう12時半だよ、今日お昼何にする。
+いつものイタリアンレストランは今週2回も行ったよ。
+じゃあ新しくできた日本料理の店はいいけど、ちょっと高めだよ。
+お弁当買ってきてここで食べようか、それもいいけど、ほら課長もお弁当だよ。
+そうだ、角の洋食レストランは木曜日は休みよ。
+じゃあやっぱりいつものところへ行こう。
+
+Question:
+2人は昼ご飯をどこで食べますか。
+
+Options:
+1. イタリアンレストラン
+2. 日本料理の店
+3. いつものレストラン
+4. 弁当を食べる
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+4番、お店の人たちが話しています。
+
+Conversation:
+12月はお店が忙しくなります、どうしますか。
+そろそろアルバイト頼まないとね。
+うん、そうだね、12月になると忙しいからね。
+またこの前の会社に紹介してもらうでも、いつもいい人来ないよね。
+あそここの前のアルバイトもひどかったし。
+それだったら知り合いに聞いてみた方がまだいいかな。
+そうだね、そうしようか、山田さんに頼んでみようか。
+でもまず先に店に貼ろう、その方が早いかも。
+
+Question:
+どうしますか。
+
+Options:
+1. アルバイトを頼む
+2. 知り合いに聞く
+3. 店に貼る
+4. 会社に相談する
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+5番、男の人が店で車を選んでいます。
+
+Conversation:
+どの車を選びますか。
+この車かっこいいなあ。
+はい、1番新しいデザインです。
+いいな、でもうち家族が多いから、お子さんはおいくつですか。
+3歳と5歳、 おばあちゃんもいるしそれでしたらこちらのドアが大きく開くタイプはいかがでしょう。
+なんか仕事の車みたいだなあ。
+普通の車より荷物も乗せやすいですし、席も動かせます。
+そうか、買い物にも便利そうですね。
+はい、結構大きい、荷物も運べます。
+いつかはかっこいい車に乗りたいけど、今はこっちだ。
+
+Question:
+どの車を選びますか。
+
+Options:
+1. かっこいい車
+2. ドアが大きく開く車
+3. 荷物が乗せやすい車
+4. 席が動かせる車
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+6番、デパートで男の人と女の人が話しています。
+
+Conversation:
+男の人はこれからどこへ行きますか。
+まず6階でやってる展覧会行きたいな。
+え、先にバーゲンセールよ、早く行かないと。
+大丈夫だよ、荷物持って展覧会見るなんて、最低だよ。
+だめよ、後にしたらいいのなくなっちゃう。
+じゃあ別々に回ろう。
+12時に8階のレストランで会えばいい。
+ええ、あなたの服も買うのよ、一緒に来てよ。
+疲れるから任せるよ。
+
+Question:
+男の人はこれからどこへ行きますか。
+
+Options:
+1. 展覧会
+2. バーゲンセール
+3. レストラン
+4. 服の買い物
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+7番、会社で上司と部下が話しています。
+
+Conversation:
+部下はこの後何をしますか。
+今日の会議の準備だけど。
+はい、この書類を20枚コピーしておいて。
+20枚ですね。
+そう、それとこの間マイクの調子が悪かったから、1度確認しておいてくれる。
+分かりました。
+ダメだったら他のと変えておきます。
+そうしてくれると助かる。
+はじゃあそれからお願いね。
+わかりました。
+あ、それと後でいいから部長に来週の予定メールしておいて。
+はい、送っておきます。
+
+Question:
+部下はこの後何をしますか。
+
+Options:
+1. 書類をコピーする
+2. マイクを確認する
+3. 部長にメールする
+4. 会議の準備をする
+
+CorrectAnswer: 1
+</question>

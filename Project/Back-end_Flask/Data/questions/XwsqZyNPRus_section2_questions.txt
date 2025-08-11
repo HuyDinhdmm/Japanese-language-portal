@@ -1,0 +1,200 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through it step by step.
+
+First, I see the transcript starts with some instructions about the test, like "問題2ではまず質問を聞いてください" and mentions reading time. I should ignore these as they are instructions, not actual questions.
+
+Looking further, I notice sections labeled 1番, 2番, etc. These are the actual questions. Each section has a conversation and a question. My task is to format each into the specified XML structure.
+
+For each question, I'll extract the introduction, conversation, question, options, and correct answer. I need to ensure each question has exactly 4 options unless it's a response-type with 3. I'll check if the transcript provides all options; if not, I'll create plausible ones.
+
+Starting with 1番: It's about a man rescheduling a dental appointment. The conversation is between the man and the receptionist. The question is about when he will go. The options are water, Monday morning, Friday afternoon, and next week. The correct answer is 2 (Monday morning).
+
+Next, 2番: University students discussing clubs vs. part-time jobs. The options are photography club, part-time job, sports club, and volunteer work. The correct answer is 2.
+
+3番: A man and woman talking about summer plans. Options are overseas, domestic, stay home, and not decided. Correct answer is 3.
+
+4番: A man missing a party to visit a hospitalized coworker. Options are attending the party, visiting the hospital, sending a gift, and not going. Correct answer is 2.
+
+5番: Discussing a meeting time change. Options are tomorrow, same time, different room, and same place. Correct answer is 1.
+
+6番: Graduate plans—work, grad school, travel, or other. Correct answer is 3.
+
+7番: Planning a museum visit. Options are Saturday, Sunday evening, weekday, and next week. Correct answer is 3.
+
+I'll structure each question accordingly, ensuring no extra text or translations are included. Each question is properly formatted with the required fields and correct answer.
+</think>
+
+<question>
+Introduction:
+男の人が歯車の人と話しています。
+
+Conversation:
+男: 山本ですが予約を変えてもらいたいんですが。
+女: 山本様来週の水曜日の午前10時にご予約でしたね。
+男: そのね、午前中は都合が悪くなってしまったので午後にしてもらえませんか。
+女: すみません、午後はもう予約がいっぱいなんです。来週は月曜の午前か金曜の午後でしたら空いていますが。
+男: そうですか。じゃあ早い方がいいです。
+
+Question:
+男の人はいつ歯車に行きますか？
+
+Options:
+1. 水曜日の午前
+2. 月曜の午前
+3. 金曜の午後
+4. 来週
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+大学で男の学生と女の学生が話しています。
+
+Conversation:
+女: どうしますか？どのクラブに入るか決めたんですか？
+男: 僕は写真部に入るつもりなんだ。
+女: ほう。私はクラブには入らないと思う。
+男: え？どうして？
+女: アルバイトをしようと思ってるの。違う大学の人にも会えるし、生活のためにお金も欲しいし。
+男: ふーん。そうか。でも毎日アルバイトしないでしょ。
+女: 写真部は週に1回だけだから。一緒に入らない？
+男: うーん、そう。ね。
+女: でも写真にはあんまり興味がないからやめておく。
+
+Question:
+女の学生はどうしますか？
+
+Options:
+1. 写真部に入る
+2. アルバイトをする
+3. スポーツ部に入る
+4. ボランティアをする
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人と男の人が話しています。
+
+Conversation:
+男: 夏休みはどうするんですか？山田さん。
+女: 今年はどこか外国へ行こうと思っていたんですけど。
+男: 奥さん休みが取れなくてね。
+女: 奥さんお仕事忙しいんですね。
+男: ええ。国内旅行も無理そうです。
+女: まあ今年はゆっくりします。
+
+Question:
+男の人は夏休みに何をしますか？
+
+Options:
+1. 海外旅行
+2. 国内旅行
+3. 休みを取って家で休む
+4. 仕事をする
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+女の人と男の人が話しています。
+
+Conversation:
+女: 田村さんの誕生日パーティーに行かないんですか？
+男: ええ。一緒にアルバイトをしている人が急に入院しちゃってね。
+女: その日はみんなで病院にお見舞いに行くんですよ。
+男: そうですか。じゃあ仕方ないですね。
+女: 代わりにプレゼント渡しておきましょうか。
+男: プレゼントはまだ買ってないんです。田村さんには後で渡そうと思って。
+
+Question:
+男の人はどうしてパーティーに行きませんか？
+
+Options:
+1. アルバイトに行く
+2. 病院に訪ねる
+3. プレゼントを買う
+4. 仕事がある
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+会社で女の人と男の人が話しています。
+
+Conversation:
+女: 会議は明日でしたよね。
+男: ええ。午後の3時から。
+女: 5回の会議室ですよ。
+男: え。3回の会議室じゃありませんか？
+女: 今日ですよ。
+男: 時間もですか？
+女: いえ。時間はそのままですよ。
+
+Question:
+いつどこで会議をしますか？
+
+Options:
+1. 明日の午後3時
+2. 明日の午前
+3. 3回の会議室
+4. 5回の会議室
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+大学で女の学生と男の学生が話しています。
+
+Conversation:
+女: もうすぐ卒業だけど会社は決まったんですか？
+男: まだ。僕はまだ色々勉強したいから。
+女: 大学院に行くの？
+男: そうじゃなくて。世界のいろんなところを見て回ろうと思ってるんだ。
+女: へえ。お父さんはそれでいいっていや。
+男: 父は店を手伝えって言うんだけどそれは嫌なんだ。
+
+Question:
+男の学生は卒業した後どうしますか？
+
+Options:
+1. 就職する
+2. 大学院に行く
+3. 世界を旅する
+4. 家族の店を手伝う
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+男の人と女の人が話しています。
+
+Conversation:
+女: ねえ。美術館のチケットが2枚あるんだけど。一緒に行かない？
+男: あれ行きたかったんだ。いつ行く？
+女: 土曜日はどう？
+男: うーん。週末は混んでいるからやめた方がいいよ。
+女: 金曜日の夜は。
+男: 金曜日は夕方から会議だから無理だ。
+女: なだったら。
+男: 月曜日は美術館休みよ。
+女: あそうだ。週末でも日曜の夕方は空いているらしいよ。
+男: じゃあそうしようか。
+
+Question:
+2人はいつ美術館へ行きますか？
+
+Options:
+1. 土曜日
+2. 日曜の夕方
+3. 金曜日の夜
+4. 月曜日
+
+CorrectAnswer: 3
+</question>

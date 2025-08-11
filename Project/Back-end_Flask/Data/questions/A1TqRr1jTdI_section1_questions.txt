@@ -1,0 +1,173 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem step by step.
+
+Starting with problem 1. The introduction is about a farewell party. The conversation between a man and a woman discusses restaurant reservations and cooking. The question is about what the man will do at the party. The options are about making drinks, cooking, reserving a restaurant, and buying food. The correct answer is making drinks, which is option 2.
+
+Moving to problem 2. The situation is at a bank. The man wants to make a card and is told to wait. The question is about what he must do next. The options are about waiting for his number, applying immediately, and others. The correct answer is waiting for his number, option 1.
+
+Problem 3 is in a store. A woman is looking for mountain climbing shoes. She discusses the design and color. The question is about which shoes she buys. The options are about the bird pattern, size, and color. She chooses the bird pattern, so option 1.
+
+Problem 4 involves a part-time job. The woman is considering teaching English. The question is about what she will do. The options are about visiting the place, taking the exam, and calling. She decides to visit first, so option 1.
+
+Problem 5 is about watering plants. The man explains the frequency. The question is about what he must be careful with. The options are about watering once a week, three times, and every day. The correct answer is once a week, option 1.
+
+Problem 6 is at a movie theater. They discuss seat preferences. The question is about which seats they buy. The options are front, middle, and somewhere else. They choose the middle, so option 2.
+
+Problem 7 is about a man's schedule. He has a machine trouble in Osaka. The question is about his plans today. The options are going to Osaka, preparing data, and attending the meeting. He will go tomorrow, so option 2.
+
+Problem 8 is at a hotel reception. The woman is checking in. The question is about what she does next. The options are checking in, leaving the luggage, and going out. She leaves the luggage and departs, so option 2.
+
+I need to format each question correctly, ensuring each has the right number of options and the correct answer. I'll structure them as per the user's instructions without any extra text or headers.
+</think>
+
+<question>
+Introduction:
+男の人はパーティーの時何をしますか
+
+Conversation:
+もうすぐさよならパーティーだけど、学校の隣のレストラン予約した。うん、今年は教室でしましょうよ。料理はスーパーで買ってえ。スーパーの料理あまりおいしくないよ。そうね、じゃあ自分たちで作りましょう。僕料理できよ。じゃあたんさん、飲み物お願いね。うん、わかった。
+
+Question:
+男の人はパーティーの時何をしますか
+
+Options:
+1. 飲み物を作ります
+2. 料理を作ります
+3. レストランを予約します
+4. スーパーの料理を買います
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人はこの後すぐ何をしなければなりませんか
+
+Conversation:
+すみません、銀行のカードを作りたいんですが。はい、ではこの番号の紙を持ってお待ちください。はい、16番ですね。ええ、ご自分 の番号が呼ばれましたら受付までどうぞ。其の前にまずこちらにお名前をお願いします。はい、わかりました。
+
+Question:
+男の人はこの後すぐ何をしなければなりませんか
+
+Options:
+1. 16番を待ちます
+2. 即座にカードを作ります
+3. 受付でお名前を伝えます
+4. 番号の紙を渡します
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の人はどの靴を買いますか
+
+Conversation:
+いらっしゃいませ、山登りの靴が欲しいんですが。こちらはいかがですか。わあ、この鳥の絵可愛いね。ええ、今人気があるんですよ。どうぞ、サイズはちょうどいいんだけど、この鳥ので黒いのありませんか。すみません、星がついているのなら黒いのもあるんですが。そうですか、じゃあこれでいいです。
+
+Question:
+女の人はどの靴を買いますか
+
+Options:
+1. 鳥の絵がついているの
+2. サイズが合っているの
+3. 黒い靴
+4. 人気があるの
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の人はどうしますか
+
+Conversation:
+これはどうですか。夕方5時から8時まで小学生に英語を教えるアルバイト。どれどれ、夕方5時からだったら学校が終わってからすぐ行けば間に合うね。那些に小学生の英語ならそんなに難しくないし、アルバイトをしたい人この電話番号に連絡して。簡単な英語の試験があります。て書いてあるよ。じゃあ電話してみよう。場所は駅前の桜ビル。誤解知ってるうん。まずは見てこようかな。良さそうだったら電話しよう。
+
+Question:
+女の人はどうしますか
+
+Options:
+1. 桜ビルに行ってみます
+2. 電話番号に連絡します
+3. 英語の試験を受けます
+4. アルバイトの仕事を始めます
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人が気をつけなければならないことは何ですか
+
+Conversation:
+水は1日に何回やればいいですか。今は毎日やらなくてもいいんですよ。1週間に1回でいいんです。この木はやりすぎるといけません。でも暑くなってきたら3日に1回ぐらいやってください。毎日じゃなくていいんですね。わかりました。
+
+Question:
+男の人が気をつけなければならないことは何ですか
+
+Options:
+1. 1週間に1回
+2. 3日に1回
+3. 毎日
+4. 1日に何回か
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+2人はどの席のチケットを買いますか
+
+Conversation:
+ね、どこにする。もうあんまり開いてないね。1番前じゃ目が疲れるよね。じゃあここは僕背が高いから真ん中だと後ろの人が見えないと思うんだよね。じゃあここは私もうちょっと前がいいな。ここはいいよ。後ろに人がいても真ん中じゃなければ大丈夫じゃ。ここにしよう。
+
+Question:
+2人はどの席のチケットを買いますか
+
+Options:
+1. 1番前
+2. 真ん中
+3. 後ろ
+4. ちょっと前
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+男の人は今日何をしますか
+
+Conversation:
+佐々木さん、大阪地点の機械のトラブルです。すぐに大阪へ行ってください。明日の会議はどうしますか。そうですね、じゃあ明日会議が終わってからお願いします。飛行機のチケットは今日予約しておいてください。わかりました。すみません、明日の会議のデータチェックしていただけますか。 あ、これですね。わかりました。
+
+Question:
+男の人は今日何をしますか
+
+Options:
+1. 大阪へ行きます
+2. 会議のデータをチェックします
+3. 明日の会議に出ます
+4. チケットを予約します
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人はこの後どうしますか
+
+Conversation:
+すみません、山田です。この荷物お願いします。山田様ですね、ではこちらにお名前とご住所などをお願いします。すみません、すぐ出かけますからチェックインは後でこの荷物だけお願いします。はい、わかりました。いってらっしゃいませ。
+
+Question:
+女の人はこの後どうしますか
+
+Options:
+1. チェックインします
+2. 荷物を預けます
+3. 出かけます
+4. チェックアウトします
+
+CorrectAnswer: 2
+</question>

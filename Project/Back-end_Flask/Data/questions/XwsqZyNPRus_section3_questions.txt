@@ -1,0 +1,115 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see "問題3" which is question 3. It mentions looking at a picture and selecting the best option from 1 to 3. The situation is about a teacher with a book. The options are three different ways to ask to read the book. So, I'll structure this as a question with an introduction, conversation, question, and options. The correct answer is the third option, so CorrectAnswer: 3.
+
+Next, the transcript moves to "2番" which is question 2. It's about a child playing in the street when a car comes. The options are "片付けて", "危ない", and "早く行って". The correct thing to say here is "危ない" to warn the child, so CorrectAnswer: 2.
+
+Then, "3番" is about taking a bus to a hotel. The options are different ways to ask which bus to take. The correct answer is the third option, so CorrectAnswer: 3.
+
+"4番" involves wanting to talk to a section chief who is busy. The options are different ways to approach. The polite way is the second option, so CorrectAnswer: 2.
+
+Finally, "5番" is about asking someone to get a book. The options are different requests. The correct polite form is the first option, so CorrectAnswer: 1.
+
+I need to make sure each question follows the correct format, with exactly 3 or 4 options, and include the correct answer. I'll structure each question accordingly without any extra text or explanations.
+</think>
+
+<question>
+Introduction:
+先生の持っている本を読んでみたいです。
+
+Conversation:
+1. 先生、この本拝見していただきますか？
+2. 先生、この本読んでみてくださいませんか？
+3. 先生、この本読ませていただけませんか？
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 先生、この本拝見していただきますか？
+2. 先生、この本読んでみてくださいませんか？
+3. 先生、この本読ませていただけませんか？
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+子供が道で遊んでいる時車が来ました。
+
+Conversation:
+1. 片付けて
+2. 危ない
+3. 早く行って
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 片付けて
+2. 危ない
+3. 早く行って
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+バスに乗ってホテルへ行きたいです。
+
+Conversation:
+1. どのバスに乗ったらいいですか？
+2. バスに乗ったらどうなりますか？
+3. あのバスがホテルに行きますよ。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. どのバスに乗ったらいいですか？
+2. バスに乗ったらどうなりますか？
+3. あのバスがホテルに行きますよ。
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+部長と話がしたいですが部長は仕事をしています。
+
+Conversation:
+1. 部長今日はお邪魔しました。
+2. あの今ちょっとよろしいでしょうか？
+3. すみませんが仕事をやめてください。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 部長今日はお邪魔しました。
+2. あの今ちょっとよろしいでしょうか？
+3. すみませんが仕事をやめてください。
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+本が取れます。
+
+Conversation:
+1. すみません、取ってくださいませんか？
+2. すみません、取ってあげませんか？
+3. すみません、助けてもいいですか？
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. すみません、取ってくださいませんか？
+2. すみません、取ってあげませんか？
+3. すみません、助けてもいいですか？
+
+CorrectAnswer: 1
+</question>

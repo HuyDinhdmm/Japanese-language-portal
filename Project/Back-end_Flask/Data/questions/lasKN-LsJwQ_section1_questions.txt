@@ -1,0 +1,157 @@
+<think>
+Alright, I need to extract all the actual test questions from the given listening transcript. Each question should include a situation introduction, a conversation, the question itself, and options with the correct answer.
+
+First, I'll go through the transcript and identify each problem. The transcript has problems 1 through 6, each with a different scenario. For each problem, I'll extract the introduction, the conversation, the question, and the options.
+
+Looking at problem 1, it's about a woman asking a man for directions. The conversation is between the woman and the man, and the question is about where the woman is heading next. The options are provided, so I'll list them and note the correct answer.
+
+Problem 2 involves a man calling a convenience store to ask about buying cola. The conversation is between the man and the store clerk, and the question is what the man will buy. Again, the options are given, so I'll include them and the correct answer.
+
+Problem 3 is set in a restaurant before opening, where an part-time worker and a man discuss their tasks. The question is about what the woman must do next. The options are provided, so I'll list them and the correct answer.
+
+Problem 4 takes place in an office where a man and a woman discuss lunch plans. The question is about their decision. The options are given, so I'll include them and the correct answer.
+
+Problem 5 is about a man and a woman meeting on the street and discussing their plans. The question is about what the man will do next. The options are provided, so I'll list them and the correct answer.
+
+Problem 6 is in an office where a man and a woman talk about the man leaving time. The question is about when he will leave. The options are given, so I'll include them and the correct answer.
+
+I need to ensure each question follows the specified format, with the correct number of options and the right correct answer. I'll avoid any extra text or explanations, just the necessary parts as per the rules.
+</think>
+
+<question>
+Introduction:
+1番女の人が電話で男の人に道を尋ねていいます。
+
+Conversation:
+女の人はこれからどこへ行きますか。
+かあもしもしさっき教えていただいたABC銀行のところまでは来たんですが、また道が分からなくなって。ああ、今ABC銀行の前ですね。
+はい、それじゃあ道の向かい側に薬局があるんですが、見えますか。薬局ですか。花屋は見えますが、その花やから10mほどありました。ありました。うちの事務所はその薬局の裏側なんですが、今私、花屋の2階の喫茶店にいるんです。事務所には今誰もいませんので、こっちの方に来てくれますか。
+ああ、はい、わかりました。女の人はこれからどこへ行きますか。
+
+Question:
+女の人はこれからどこへ行きますか。
+
+Options:
+1. 花屋の2階の喫茶店
+2. ABC銀行
+3. 薬局
+4. 事務所
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+2番コンビニで男の人が女の人に電話をしています。
+
+Conversation:
+もしもし、今コンビニ。ペットボトルのコーラ大きいのがないんだけど、どうする。
+うーん、じゃあ小さいの2個買ってきて。サイダーならペットボトルの大きいやつあるんだけど、そっかじゃあコーラやめて、それ1本だけ買ってきて。
+うん、わかった。男の人は何を買いますか。
+
+Question:
+男の人は何を買いますか。
+
+Options:
+1. コーラ（小）
+2. コーラ（大）
+3. サイダー（大）
+4. コーラとサイダー
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+3番店が始まる前のレストランで男の人とアルバイトの女の人が話しています。
+
+Conversation:
+おはようございます。今日は、今日からアルバイトの時給上がりますから。
+そうか、それで張り切ってるんだ。床ももう拭いたみたいだね。
+はい、テーブルも拭きました。そうじゃあ今日は窓も吹こうか。
+はい、わかりました。悪いけどトイレの掃除ですね。
+太田さんから電話で頼まれました。そうじゃあ窓の方が終わったらやっといてね。
+はい、わかりました。女の人はこの後まず何をしなければなりませんか。
+
+Question:
+女の人はこの後まず何をしなければなりませんか。
+
+Options:
+1. 窓の掃除
+2. テーブルの拭き
+3. 床の拭き
+4. トイレの掃除
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+4番会社で男の人と女の人が話しています。2人は昼ご飯をどうすることにしましたか。
+
+Conversation:
+川口さん、今日のお昼どうしますか。まだ決めてないけど。
+どうしての、ビルのカレー屋に行きませんか。
+うーん、あそこあんまり美味しくないし。それなら事務所でコンビニ弁当の方が私はいいけど。
+そうですか、カレー屋はダメですか。
+ああ、久しぶりに公園行ってみようか。お弁当買って。
+そうか、天気もいいしあったかいし。山下さんも誘いましょうか。
+山下さんはさっき社長と出かけたよ、取引き先の人とお昼は新宿のホテルで食事するみたい。2人で今日はデートしよう。
+ええ、いいですね。2人は昼ご飯をどうすることにしましたか。
+
+Question:
+2人は昼ご飯をどうすることにしましたか。
+
+Options:
+1. カレー屋で食事
+2. コンビニ弁当で事務所で食事
+3. 公園でお弁当
+4. 新宿のホテルで食事
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+5番近くに住んでいる女の人と男の人が道で会って話しています。男の人はこの後どうしますか。
+
+Conversation:
+ああやんさん、どっか出かけるの。友達が遊びに来るので駅まで迎えに。
+そうじゃあ駅の帰りにうちによって本持っていって。
+この間貸して欲しいって言ってたでしょ、英語の本。
+ああそうそう、ありがとう。
+あの2時間ぐらい後で行ってもいいですか。駅の近くで友達とお昼食べてくるかもしれないので。
+うーんじゃあ夕方取りに来て、5時頃。私もちょっと出かけるので。
+じゃあ今行ってもいいですか。うん、いいわよ。でも友達迎えに行くんでしょ。大丈夫、大丈夫、まだ時間ありますから。
+
+Question:
+男の人はこの後どうしますか。
+
+Options:
+1. 友達を迎えに行く
+2. 英語の本を返す
+3. 駅の近くで食事をする
+4. 夕方まで待つ
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+6番会社で女の人と男の人が話しています。男の人は何時に会社を出ますか。
+
+Conversation:
+あれ今日お客さん来るんでしょ、中国から。空港に行かなくていいの。5時半到着の飛行機ですから。
+まだ何言ってるのよ、飛行機って予定より早く着くこともあるし、空港が空いてたらお客さんも早く出てくるしだめだめ、もう4時よ。犯には出なさい。犯には5時頃出ても大丈夫だと思いますけど、だめよ。5時半には空港について待ってないとはいじゃあそうします。
+
+Question:
+男の人は何時に会社を出ますか。
+
+Options:
+1. 4時
+2. 5時
+3. 5時半
+4. 6時
+
+CorrectAnswer: 2
+</question>

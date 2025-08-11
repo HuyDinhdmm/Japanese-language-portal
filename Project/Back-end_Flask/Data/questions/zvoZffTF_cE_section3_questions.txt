@@ -1,0 +1,79 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me read through the transcript carefully.
+
+The transcript starts with "問題3では...", which indicates the start of problem 3. It mentions looking at a picture and listening to a question, choosing the best option from 1 to 3. So, this is a response-type question with three options.
+
+Next, the situation is about being late to class. The options are three different phrases someone might say when they're late. I'll note each option and assign numbers 1 to 3.
+
+Then, the transcript moves to "2番...", which is the second part of problem 3. It's about not understanding how to buy a ticket. Again, three options are provided, so I'll structure this as another question with three options.
+
+The third part is "3番...", dealing with heavy books and asking for help. Three options are given here as well. I'll create another question for this.
+
+After that, the transcript mentions "問題4", but it doesn't provide any details or options. Since there's no information, I can't extract a question from it. I'll ignore this part as per the instructions.
+
+I need to make sure each question follows the correct format. For each, I'll include the introduction, conversation, question, options, and correct answer. I'll assign the correct answer based on the context provided in the transcript.
+
+I should also ensure that each question has exactly three options and that the correct answer is clearly marked. No extra text or explanations should be included, just the structured data as specified.
+
+Finally, I'll double-check that I've extracted all valid questions and formatted them correctly without any missing information or additional text.
+</think>
+
+<question>
+Introduction:
+1番授業に遅れました。何と言いますか。
+
+Conversation:
+1. すみません電車の事故のため遅れました。
+2. ごめん電車が動かなかったんです。
+3. すみません電車が遅れたので私が悪いんじゃありませんでした。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. すみません電車の事故のため遅れました。
+2. ごめん電車が動かなかったんです。
+3. すみません電車が遅れたので私が悪いんじゃありませんでした。
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+切符の買い方がわかりません。何と言いますか。
+
+Conversation:
+1. 切符を買ったことがありますか。
+2.どうやってキップを買うか教えてくれませんか。
+3. 切符を買うつもりです。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 切符を買ったことがありますか。
+2.どうやってキップを買うか教えてくれませんか。
+3. 切符を買うつもりです。
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+本が重くて持てません。何と言いますか。
+
+Conversation:
+1. ごめん手伝ってくれ。
+2. ねえ手伝わないの。
+3. 手伝ってもいい。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. ごめん手伝ってくれ。
+2. ねえ手伝わないの。
+3. 手伝ってもいい。
+
+CorrectAnswer: 3
+</question>

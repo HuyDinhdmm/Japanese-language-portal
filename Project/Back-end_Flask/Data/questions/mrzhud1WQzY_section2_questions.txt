@@ -1,0 +1,30 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each part step by step.
+
+First, I see the transcript starts with some instructions and an example for problem 2. I should ignore that as per the rules. Then, it moves on to problem 3, which is the actual test.
+
+Looking at problem 3, it's about a conversation in a library. The librarian is explaining the rules. The question is asking what you should not do in the library. The options are four things: talking in a loud voice, using a personal copier, using a computer without a password, and drinking something not in a pet bottle.
+
+I need to structure this into the specified format. The introduction is the situation, the conversation is the dialogue, the question is what's being asked, and the options are the four choices. The correct answer is the third option because the librarian mentions that drinking from anything other than a pet bottle is not allowed.
+
+I should make sure each part is correctly labeled and that the correct answer is clearly marked. Also, I need to avoid any extra text or explanations, just the raw data as per the format.
+</think>
+
+<question>
+Introduction:
+図書館で図書館の人が話しています。図書館では何をしてはいけませんか?
+
+Conversation:
+今から図書館の使い方についてお話しします。図書館はみんなが本を読んだり勉強したりする場所ですから話す時は小さい声で話してください。本をコピーしたい時は1回のコピー機を使ってください。このコピー機ではカラー コピーはできません。パソコンが使いたい時は初めに受付でパスワードを教えてもらえば誰でも使うことができます。飲み物はペットボトルにに入っているものはいいですが、それ以外はダメです。
+
+Question:
+図書館では何をしてはいけませんか?
+
+Options:
+1. 小さい声で話す
+2. コピー機を使用する
+3. パソコンを使用する
+4. ペットボトル以外の飲み物を飲む
+
+CorrectAnswer: 4
+</question>

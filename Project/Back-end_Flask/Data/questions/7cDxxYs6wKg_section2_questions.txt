@@ -1,0 +1,181 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each part step by step.
+
+First, I'll look for the different problem numbers mentioned. The transcript starts with "問題2の例" which is an example, so I'll skip that. Then it goes into "1番" which seems to be the first question.
+
+For question 1, the introduction is about a man and woman talking in front of an apartment. The conversation is about garbage collection days. The question is asking on which day the man takes out the garbage. The options are the days mentioned: 月曜日、火曜日、水曜日、木曜日. The correct answer is 4 because he says he'll take it out on the day after tomorrow, which is Thursday.
+
+Moving on to question 2, the introduction is about a news anchor talking about an animal park. The conversation describes the park as not very big but popular because you can get close to the animals. The question is about what kind of place the anchor is talking about. The options are about the characteristics of the park, with the correct answer being the third option.
+
+Question 3 is a response-type question with three options. It's about a party planning conversation between students. The question asks which option is the best. The options are the days mentioned, and the correct answer is the third option, which is Wednesday.
+
+Question 4 involves a conversation at a company about changing meeting times. The man wants to change the time because the large conference room is unavailable at 6 PM. The correct answer is the second option.
+
+Question 5 is about a professor explaining how to submit reports. The correct method is placing it in the box in front of the professor's office, which is the first option.
+
+Question 6 is a phone conversation where the man calls to inform about a train delay due to an accident. The correct answer is the second option.
+
+Finally, question 7 is about a graduate's plans, where the male student wants to stay in Japan longer. The correct answer is the third option.
+
+I need to make sure each question follows the correct format, with exactly 4 or 3 options, and include the correct answer. I'll structure each question accordingly, removing any unnecessary phrases and ensuring the correct options are listed.
+</think>
+
+<question>
+Introduction:
+アパートの前で女の人と男の人が話しています。
+
+Conversation:
+男: 何曜日にゴミを出しますか？
+女: ちょっと今日はそのゴミを出す日じゃありませんよ。火曜日がゴミの日だと聞いたんですが、今日は瓶や缶を出す日ですからそれ以外のゴミは出せませんよ。
+男: そうですか。すみません。こういう燃えるゴミはいつ出せばいいんでしょうか。
+女: 毎週月曜日と木曜日に出せますよ。
+男: わかりました。じゃあ明後日出します。
+
+Question:
+男の人は何曜日にゴミを出しますか？
+
+Options:
+1. 月曜日
+2. 火曜日
+3. 水曜日
+4. 木曜日
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+ニュースでアナウンサーが話しています。
+
+Conversation:
+アナウンサー: 桜動物園はいつもお客さんでいっぱいです。ここでは小さい動物に直接触ったり餌をやったりすることができるので親子で来ることが多いそうです。動物園はあまり広くないですし動物の数も多くありませんが、このように動物に近づくことができるのが人気の理由です。桜駅からバスで10分ととても近いので皆さんも是非来てください。
+
+Question:
+アナウンサーはこの動物園はどんなところだと言っていますか？
+
+Options:
+1. 広いです
+2. 動物の数が多いです
+3. 親子で来る人が多いです
+4. 遠いです
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+大学で女の学生と男の学生が話しています。
+
+Conversation:
+男: 今度のパーティーいつがいいかな。
+女: そうだね。そろそろ決めなくちゃね。これからみんなに連絡して参加できる日を聞いてみるよ。
+男: ありがとう。店はどこがいいか。
+女: いい店があった。美味しいし値段も安かったと思う。
+男: へえ。じゃそこにしよう。
+女: そうね。じゃ日が決まったら店の予約は私がするね。
+男: オケー。じゃあまた連絡するよ。
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 月曜日
+2. 火曜日
+3. 水曜日
+4. 木曜日
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+会社で男の人と女の人が話しています。
+
+Conversation:
+男: 来週の会議ですが、6時からではなくて6時半からに帰ることはできませんか。
+女: どうしてですか？
+男: 6時だと広い会議室が空いていなくて予約できなかったんです。6時半からなら空いているそうです。
+女: そうですか。ああともう少し狭い会議室なら6時から空いているそうです。
+男: うーん。でも人数も多いですしやっぱり広い会議室の方がいいでしょう。
+女: じゃあ時間を変えましょう。
+男: はい。わかりました。
+
+Question:
+男の人はどうして会議の時間を変えたいと言っていますか？
+
+Options:
+1. 広い会議室が空いているから
+2. 人数が多いから
+3. 狭い会議室が空いているから
+4. 帰りたいから
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+大学で先生が話しています。
+
+Conversation:
+先生: レポートはどうやって出さなければなりませんか？
+女: この授業のレポートですが、来週の金曜日までに出してください。私の研究室の前に箱を置いておきますから。レポートはそこに入れるように。郵便やEメールで送ってきたり直接私に渡したりしないようにしてください。
+男: それから時々レポートが間に合わなかった学生が研究室に相談に来ることがありますが、それもだめです。
+
+Question:
+レポートはどうやって出さなければなりませんか？
+
+Options:
+1. 研究室の箱に入れる
+2. 郵便で送る
+3. Eメールで送る
+4. 直接先生に渡す
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+電話で女の人と男の人が話しています。
+
+Conversation:
+男: あ、鈴木だけどもう着いた。うん。今駅にいるんだけど事故があったみたいで電車がなかなか来ないんだ。それで少し遅れそうなんだ。ごめん。
+女: 分かった。何時頃来られそう？
+男: それがまだわからないんだ。でもできるだけ早くそっちに行くから、もう少し待ってて。
+女: ない分かった。気をつけてね。
+
+Question:
+男の人はどうして電話しましたか？
+
+Options:
+1. 遅れることを知らせるため
+2. 電車の事故を知らせるため
+3. 鈴木を迎えに来るため
+4. 鈴木と会う約束をするため
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+大学で女の学生と男の留学生が話しています。
+
+Conversation:
+女: 男の留学生は大学を卒業したら何をしますか？
+男: もうすぐ4年生ですね。カルロスさん、卒業したら何をする予定ですか？
+女: 前は卒業したら国へ帰って働くつもりでしたが、今はもう少し日本にいて勉強を続けたいと考えているんです。
+男: そうですか。この前両親に相談しましたが、両親もそれでいいと言ってくれました。
+女: よかったですね。ところで田中さんはどうするんですか？
+男: 私は東京で働きたいと考えているんです。今度東京の会社の試験を受けるつもりです。
+女: そうですか。早く決まるといいですね。頑張ってください。
+
+Question:
+男の留学生は大学を卒業したら何をするつもりですか？
+
+Options:
+1. 日本にいて勉強を続ける
+2. 国へ帰って働く
+3. 東京で働く
+4. 研究室に相談する
+
+CorrectAnswer: 1
+</question>

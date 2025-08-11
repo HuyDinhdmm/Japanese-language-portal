@@ -1,0 +1,148 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through it step by step.
+
+First, I'll read through the entire transcript to identify where each question starts and ends. The transcript mentions "問題2" and then goes on to describe several scenarios. Each problem seems to be numbered, like 2番, 3番, etc.
+
+Looking at the structure, each question has an introduction, a conversation, a question, and options. I'll need to parse each section carefully.
+
+Starting with the first part after "問題2", it talks about a woman moving because of an annoying old lady nearby. That's question 2. Then it moves on to question 3 about meeting time, question 4 about summer plans, question 5 about why a man can't meet friends, question 6 about the order at a beauty salon, question 7 about a survey on favorite books, and question 8 about returning library books.
+
+I'll structure each question according to the specified format. For each, I'll extract the introduction, the conversation, the question, and the options. If any options are missing, I'll create plausible ones, but in this case, the transcript provides all necessary details.
+
+I'll make sure each question is correctly numbered and formatted without any extra text or headers. I'll also ensure the correct answer is clearly marked.
+
+Now, I'll proceed to extract each question one by one, following the rules provided.
+</think>
+
+<question>
+Introduction:
+女の人はどうして引っ越しをしますか
+
+Conversation:
+来月引っ越すんだえ。どうしてまだ住んで1年くらいだよね。駅が近いし部屋も広くていいんだけど、近所に意地悪なおばさんさんが住んでるんだよね。そうなんだ。何もしてないのに家の前を通ると必ず文句を言ってくるんだよ。もう怖くてさ。
+
+Question:
+女の人はどうして引っ越しをしますか
+
+Options:
+1. 駅が近いから
+2. 部屋が広いから
+3. 近所に意地悪なおばさんさんがいるから
+4. 家賃が安いから
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+2人は何時に会いますか
+
+Conversation:
+日曜日のパーティー、3時半からだよね。うん、ちょっと早めに行った方がいいよね。そうだね、3時くらい。もうちょっと早い方がいいよ。パーティーが始まる1時間前にしようよ。そうだね、そうしよう。
+
+Question:
+2人は何時に会いますか
+
+Options:
+1. 3時
+2. 3時半
+3. 4時
+4. 5時
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人は夏休みどうすることにしましたか
+
+Conversation:
+ジョージさん、夏休みはどうするの。うーん、京都か大阪に行くつもりだけどまだ決めてないよ。へえ、京都か大阪か、どっちもいいね。京都はお寺が有名だしとても綺麗な街だよ。大阪は食べ物が美味しいよ。うーん、どっちにしようかな。大丈夫だよ、京都から大阪まで電車で30分くらいだよ。どっちにも行けるよ。本当よかったじゃあ両方行くよ。
+
+Question:
+男の人は夏休みどうすることにしましたか
+
+Options:
+1. 京都に行く
+2. 大阪に行く
+3. 京都と大阪の両方に行く
+4. 行き先を決めていない
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+男の人はどうしてなかなか友達に会えませんか
+
+Conversation:
+どうも仕事に慣れたうんでも、学生の時よりすごく忙しいから毎日疲れちゃうよ。へえ、大変だね。休みの日も仕事をすることがあるのに、会社からもらえるお金は少ないんだ。自分の時間も全然ないよ。じゃあなかなか友達にも会えないね。そうなんだ。佐々木さんはどう私の会社は毎日5時に仕事が終わるよ。
+
+Question:
+男の人はどうしてなかなか友達に会えませんか
+
+Options:
+1. 仕事が忙しいから
+2. お金が少ないから
+3. 休みの日も仕事をするから
+4. 以上すべて
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+どの順番でしますか
+
+Conversation:
+こんにちは。紙伸びましたね。今日はどうしますか。えっとパーマをかけたいんですが。はい、わかりました。でもこのままパーマをかけるより少し短くした方が綺麗なので3cmぐらい切っても大丈夫ですか。はい、お願いします。じゃあ先に紙を切ってからパーマをかけます。その前にシャンプーをしましょう。あちらへどうぞ。
+
+Question:
+どの順番でしますか
+
+Options:
+1. シャンプー→紙を切る→パーマをかける
+2. シャンプー→パーマをかける→紙を切る
+3. 紙を切る→シャンプー→パーマをかける
+4. パーマをかける→シャンプー→紙を切る
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の人の話に会うのはどれですか
+
+Conversation:
+男の人50人と女の人50人に好きな本を聞きました。男の人に1番人気があったのは散歩道です。女の人は新しい町でした。男の人に2番目に人気があったのはアンコールです。女の人は桜の木の下でした。3番目は男の人も女の人も同じでガラスの心です。女の人の話に会うのはどれですか。
+
+Question:
+女の人の話に会うのはどれですか
+
+Options:
+1. 散歩道
+2. 新しい町
+3. アンコール
+4. 桜の木の下
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+図書館が休みの時本はどうやって返しますか
+
+Conversation:
+図書館の本の借り方について説明します。本は1人10冊まで2週間借りられます。読みたい本を他の人が借りている場合は予約をすることができます。そうすればその人の次に本を借りられます。本を返す時は受付に持ってきてください。図書館が空いていない時は外に本を返すためのポストがあるのでそのポストに本を入れてください。
+
+Question:
+図書館が休みの時本はどうやって返しますか
+
+Options:
+1. 受付に持って行く
+2. ポストに本を入れる
+3. 1と2の両方
+4. 返却できない
+
+CorrectAnswer: 3
+</question>

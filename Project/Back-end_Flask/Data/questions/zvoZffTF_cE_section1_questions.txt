@@ -1,0 +1,123 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem one by one.
+
+Starting with Problem 1. The introduction is about a mother and a boy talking. The conversation is about the boy going to buy a new manga and the mother asking him to stop by the supermarket. The question is asking what the boy is going to buy. The options are four possibilities, and the correct answer is 1. I'll format this as per the first template.
+
+Moving on to Problem 2. It's a conversation between a man and a woman in a department store. They discuss where to meet after an hour. The options are the 3rd floor, 6th floor, 8th floor, and the restaurant. The correct answer is the 8th floor's elevator, which is option 4. I'll structure this similarly.
+
+Problem 3 involves a teacher talking to a student about what to bring to the next class. The options include photos, presents, homework, and a report. The correct answer is photos, which is option 1. I'll make sure to include all four options here.
+
+Problem 4 is a phone conversation about returning a CD. The man says he'll return it around 6 PM. The options are 6 PM, evening, tomorrow evening, and after work. The correct answer is 6 PM, which is option 1.
+
+I need to ensure each question has exactly four options and the correct answer is clearly marked. I'll avoid any extra text and stick strictly to the required format without any translations or explanations.
+</think>
+
+<question>
+Introduction:
+お母さんと男の子が話しています。男の子はこれから何を買いに行きますか？
+
+Conversation:
+かまさく出かけるの。
+うん、新しい漫画が出たから本屋に行くんだよ。
+じゃあ帰りにスーパーに寄ってくれない？
+えー、嫌だよ。
+じゃあ晩御飯はないよ。
+えー、それは困る。
+何を買ってくればいいの。今晩はすき焼きだから肉と野菜を買ってきて。
+
+Question:
+男の子はこれから何を買いますか？
+
+Options:
+1. 漫画
+2. 肉と野菜
+3. 洋服
+4. CD
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+男の人と女の人がデパートで話しています。2人はどこで会いますか？
+
+Conversation:
+次何を見ようか。
+私、洋服買いたいから3階に行きたい。
+へえ、洋服見るの時間かかりそうだな。
+嫌ならどこか別のところを見てれば。
+そうするよ。僕は6階に行ってCD見てくるよ。
+それで1時間後にどこかで会おうよ。
+分かったじゃあ、3階のエレベーター前。
+うーん、それでもいいけど1時間後はお昼だから。
+8階のレストランに行かない。
+分かったじゃあ、8階のエレベーター前で。
+
+Question:
+2人はどこで会いますか？
+
+Options:
+1. 3階のエレベーター前
+2. 6階のCDコーナー
+3. 8階のレストラン
+4. 8階のエレベーター前
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+先生が学生に話しています。学生は明後日の授業に何を持って来なければなりませんか？
+
+Conversation:
+え、明後日の授業ですが皆さんには大切なものについで話してもらいます。
+明後日は皆さん大切なものを持ってきてください。
+例えば家族の写真や友達からもらった誕生日プレゼントなど、何でもいいです。
+それから宿題があります。どんなことをみんなに言いたいか紙に書いてきてください。
+宿題は明日までに出してください。
+
+Question:
+学生は明後日の授業に何を持って来なければなりませんか？
+
+Options:
+1. 家族の写真
+2. 誕生日プレゼント
+3. 宿題
+4. レポート
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人と女の人が電話で話しています。男の人はいつCDを返しますか？
+
+Conversation:
+もしもし。
+あのさ、今日って家にいる。
+今ね、ちょっと出かけてるんだけども。
+夕方には家に帰るよ。
+あそうんだ。
+この間借りたCDを返そうと思ってね。
+何時頃家に？
+うーん6時頃かな。
+6時か？
+6時からアルバイトなんだよね。
+そうなんだ。
+じゃあアルバイト終わってからでもいいよ。
+でも夜遅くなるよ。
+あ、明日の夕方でもいい。
+明日はアルバイトないから。
+うん、それでいいよ。
+
+Question:
+男の人はいつCDを返しますか？
+
+Options:
+1. 6時頃
+2. 夕方
+3. 明日の夕方
+4. アルバイトが終わってから
+
+CorrectAnswer: 1
+</question>

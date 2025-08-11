@@ -1,0 +1,18 @@
+.fade-slide-enter {
+  opacity: 0;
+  transform: translateY(-8px) scale(0.98);
+}
+.fade-slide-enter-active {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  transition: opacity 150ms, transform 150ms;
+}
+.fade-slide-exit {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+.fade-slide-exit-active {
+  opacity: 0;
+  transform: translateY(-8px) scale(0.98);
+  transition: opacity 150ms, transform 150ms;
+} 

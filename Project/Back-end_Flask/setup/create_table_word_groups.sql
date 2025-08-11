@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS word_groups (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    word_id INTEGER NOT NULL,
+    group_id INTEGER NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (word_id) REFERENCES words(id),
+    FOREIGN KEY (group_id) REFERENCES groups(id)
+); 

@@ -1,0 +1,150 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem step by step.
+
+Starting with problem 2, the transcript describes a conversation between a man and a woman about the weather. The man thinks it won't rain because of the weather forecast. I'll structure this as a question with the introduction, conversation, question, and options, ensuring the correct answer is 2.
+
+Next, problem 3 has three parts. For 3番, it's about a girl not letting her father inside because of smoking. The correct reason is that smoke is still in his body, so the correct answer is 3. I'll format this with the introduction, conversation, question, and options.
+
+Moving to problem 4, the conversation is about a man surprised by the bad cake. The correct reason is it's for the dog, so the answer is 2. I'll structure this similarly with all details included.
+
+For problem 5, the discussion is about leaving for Japan to study. The man thinks it's better to go early, so the correct answer is 3. I'll make sure to include all parts properly.
+
+Problem 6 involves hotel reservations. The man wants to book on the day to save money, so the answer is 1. I'll format this with the necessary sections.
+
+Lastly, problem 7 is about the teacher not eating cake. The reason is because it's her third time, so the answer is 3. I'll structure this question correctly as well.
+
+I need to ensure each question follows the specified format, includes all options, and correctly identifies the answer without any extra text or translations.
+</think>
+
+<question>
+Introduction:
+男の人はなぜ今は雨が降らないと思いましたか
+
+Conversation:
+ねえすみさん傘持ってきたいいえどうしてですかほらあそこに黒い雲が出てきたでしょう雨が降りそうよでも大丈夫ですよ雨は降らないはずですよ天気予報でそう言っていましたからえ降るって言っていたわよ言ってませんよ午後1時雨って言っていたんですけどもう夕方ですからすみさん1時って短い時間って意味なのよえそうだったんですか
+
+Question:
+男の人はなぜ今は雨が降らないと思いましたか
+
+Options:
+1. 天気予報で雨が降らないと言っていたからです
+2. 黒い雲が見えているからです
+3. 午後1時まで雨が降ると思ったからです
+4. 雨が降りそうだからです
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の子はどうしてお父さんを家の中に入れませんか
+
+Conversation:
+パパまだ部屋に入ってこないでよどうして寒いよタバコ吸い終わったんだから早く中に入れてよ吸ってから5分間はダメなのどうしてまだパパの体の中からタバコの煙が全部出てないからよ全部出るまでに5分かかるってことそうよパパ私たちを病気にしたくないでしょ
+
+Question:
+女の子はどうしてお父さんを家の中に入れませんか
+
+Options:
+1. パパがタバコを吸っているからです
+2. パパが体の煙を出していないからです
+3. パパが寒いからです
+4. パパが風邪を引くからです
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+男の人は甘いものについてどう思っていますか
+
+Conversation:
+かねえちょっとすぎじゃない甘いもの食べるのをやめてもっと運動したら運動はしようと思っているんだチョコレートやケーキは食べるのをやめようとは思っているんだけどつい食べちゃうのよね
+
+Question:
+男の人は甘いものについてどう思っていますか
+
+Options:
+1. 甘いものを食べるのをやめたいと考えている
+2. 甘いものは好きだがやめたいと考えている
+3. 甘いものは好きだがやめられないと考えている
+4. 甘いものは好きでやめる考えがない
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+男の人は何に驚いていますか
+
+Conversation:
+なんであんなまずいケーキを買ってきたのどのケーキ台所のテーブルの上にあったケーキだよまああれ食べたのあれはポチのケーキよえ犬のケーキなの食べちゃって大丈夫かな大丈夫よあまり甘くないけど食べられるわよかった
+
+Question:
+男の人は何に驚いていますか
+
+Options:
+1. ケーキがまずいからです
+2. ケーキが犬のためのものだからです
+3. ケーキが高価だったからです
+4. ケーキが美味しかったからです
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+2人の意見が違うのはどれですか
+
+Conversation:
+日本に留学しようと思うんだけどまだ早すぎるんじゃないのでも日本で勉強した方が早く上手になると思うけどお金がたくさんあるならいいけど1年分ぐらいならいつ留学するかよく考えた方がいいわよできるようになってから行った方がいいっていう意味なのそうよそうかな僕は早ければ早いほどいいと思うんだ
+
+Question:
+2人の意見が違うのはどれですか
+
+Options:
+1. 留学する時期
+2. 留学する目的
+3. 留学する費用
+4. 留学する期間
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人の考えはどれですか
+
+Conversation:
+ねえ明日泊まるところ予約してあるまだだよ明日どこにするか決めるつもりだからえ明日になってから予約するのうん泊まる日 に予約するととても安くなるんだよいいホテルに泊まってみたいからでもいっぱいだったらどうするの普通のところでいいわよ明日の今頃はどこかが空いているから大丈夫そうかもしれないけど私は心配したくないわよ
+
+Question:
+男の人の考えはどれですか
+
+Options:
+1. 明日泊まるホテルは予約してある
+2. 明日泊まるホテルは予約しない
+3. 明日泊まるホテルは安くなる
+4. 明日泊まるホテルは決まっている
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+先生はどうしてケーキを食べませんか
+
+Conversation:
+先生どうぞケーキを召し上がってくださいええでも山田さんのおタで3元目ですのでもう
+
+Question:
+先生はどうしてケーキを食べませんか
+
+Options:
+1. ダイエット中だからです
+2. 甘いものが好きではないからです
+3. 3元目だからです
+4. ケーキが好きではないからです
+
+CorrectAnswer: 3
+</question>

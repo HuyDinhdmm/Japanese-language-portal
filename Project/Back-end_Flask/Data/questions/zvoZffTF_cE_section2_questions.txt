@@ -1,0 +1,110 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see that the transcript starts with some instructions about the test, like "問題2ではまず質問を聞いてください" which I should ignore. Then, it mentions that each question has a situation, conversation, question, and options.
+
+Looking at the first part after the instructions, it's about a man and a woman talking. The man says he went to Akihabara to buy a computer and found it cheaper than local stores. The question is asking why the man went to Akihabara. The options are four places: Akihabara, Shinjuku, Shibuya, Ikebukuro. The correct answer is Akihabara, which is option 1.
+
+Next, the second question is about a man and woman discussing their room. They talk about turning off the lights and the air conditioner. The question is about the state of the room. The options are about whether the lights and AC are on or off. The correct answer is that the lights are off and the AC is on, which is option 3.
+
+The third question is set in a department store. They're looking for where to buy a bicycle. The options are different floors: 1st, 3rd, 4th, 6th. The correct answer is the 3rd floor, option 2.
+
+The fourth question is at the register. The woman pays 17,000 yen, but the cashier says 15,000 yen and 123,456,100 yen are insufficient. The question is how much she paid. The options are 17,000, 15,000, 14,000, and 13,000. The correct answer is 17,000 yen, option 1.
+
+I need to make sure each question follows the correct format, with Introduction, Conversation, Question, Options, and CorrectAnswer. Also, ensure that each question has exactly 4 options and the correct answer is properly numbered.
+
+I should remove any unrelated phrases and not include any headers or explanations. Each question should be standalone without any extra text.
+
+I think that's all the questions from the transcript. I'll structure each one accordingly.
+</think>
+
+<question>
+Introduction:
+男の人はどうして秋葉原に行きましたか
+
+Conversation:
+男: 秋葉原でパソコンを買ったんだそうんだ。
+女: うん、秋葉原に行ってよかったよ。色々なパソコンがあるし、近所の店より安かったんだ。
+
+Question:
+男の人はどうして秋葉原に行きましたか
+
+Options:
+1. パソコンを買うため
+2. 電気製品を買うため
+3. 食べ物を買うため
+4. 書籍を買うため
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+部屋はどうなりましたか
+
+Conversation:
+男: 部屋はどうなりましたか
+女: 電気を消しましょうか
+男: いいえ、消さなくてもいいですよ。すぐ帰ってきますから。
+女: そうですか
+男: クーラーはどうしましょうか
+女: クーラーもつけておきましょう。帰ってきた時涼しいですからね。
+
+Question:
+部屋はどうなりましたか
+
+Options:
+1. 灯は消され、エアコンはついています
+2. 灯は消され、エアコンはついていません
+3. 灯は消されていない、エアコンはついています
+4. 灯は消されていない、エアコンはついていません
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+自転車はどこで買えますか
+
+Conversation:
+男: 自転車はどこで買えますか
+女: あれ、自転車って3階に売ってたよね
+男: うん、3階だよ
+女: ああ、売り場が変わってるじゃない。自転車どこに行っちゃったんだろう
+男: あ、1回になったみたいだよ。ほらここに書いてある
+女: 本当だ、あの他も色々変わったんだね。子供の服は4階、スポーツの服は6階になってるよ
+
+Question:
+自転車はどこで買えますか
+
+Options:
+1. 1階
+2. 3階
+3. 4階
+4. 6階
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人はいくら出しましたか
+
+Conversation:
+レジ: 女の人はいくら出しましたか
+女: 全部で1万7000円です
+レジ: はい、じゃあこれでお願いします
+女: えっと、1万5000、123456100円足りないですね
+レジ: あ本当だ
+
+Question:
+女の人はいくら出しましたか
+
+Options:
+1. 1万7000円
+2. 1万5000円
+3. 1万4000円
+4. 1万3000円
+
+CorrectAnswer: 1
+</question>

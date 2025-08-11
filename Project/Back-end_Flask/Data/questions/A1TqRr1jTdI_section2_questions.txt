@@ -1,0 +1,185 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through it step by step.
+
+First, I see the transcript starts with some instructions about the test, like "問題2でははまず質問を聞いてください" and mentions reading time and selecting options. I should ignore these as they are instructions, not actual questions.
+
+Looking further, I notice sections labeled 1番, 2番, etc. These are likely the actual questions. Each section seems to have a conversation and a question. My task is to format each into the specified XML structure.
+
+For each question, I'll extract the introduction, conversation, question, options, and correct answer. I need to ensure each question has exactly 4 options, unless it's a response-type with 3. I'll check if the transcript provides all options; if not, I'll create plausible ones.
+
+Starting with 1番: The introduction is about a teacher explaining a school trip. The conversation is between the teacher and students. The question is about what the teacher mainly wants to say. The options are four possibilities, and the correct answer is 4.
+
+Next, 2番: A woman and a man talk about why she's learning dance. The question is about her reason. The options are given, and the correct answer is 3.
+
+3番: A conversation about why a woman doesn't buy vegetables at a store. The options are provided, correct answer is 3.
+
+4番: At an anime award venue, the question is about when shows can be viewed. Options are 4 times, correct answer is 2 and 4, but since only one correct answer is allowed, I'll choose the first applicable, which is 2.
+
+5番: Discussion about why a woman isn't returning to her country. Options given, correct answer is 2.
+
+6番: Talk about when a man makes bento. Options provided, correct answer is 1.
+
+7番: Conversation about why a man isn't eating eggs. Options given, correct answer is 3.
+
+I need to format each question without headers, explanations, or extra text, just the XML structure. I'll make sure each has the correct number of options and one correct answer.
+
+I also notice the transcript ends with "問題 3", which I should ignore as it's not part of the questions. I'll process each numbered question from 1番 to 7番, formatting them accordingly.
+</think>
+
+<question>
+Introduction:
+先生が学生に見学の説明をしています。
+
+Conversation:
+明日はグループで見学に行きます。この間、グループで決めたところへ行ってお話を聞いたり写真を撮ったり、教室でできないことができますね。先生は一緒に行きませんから、皆さん絶対に1人になってはいけません。いつも必ずグループの友達と一緒に見学してください。これは忘れないで守ってくださいね。
+
+Question:
+先生が1番言いたいことは何ですか。
+
+Options:
+1. 見学の目的を説明すること
+2. 見学の日程を伝えること
+3. 見学の注意事項を伝えること
+4. グループで行動すること
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+女の人はどうしてダンスを習っていますか。
+
+Conversation:
+ダンス踊るの好きなのでもないのですが、学校の授業で教えなければならないのよ。教えるの中学校の先生も大変だね、色々本当ストレス多いわ。
+
+Question:
+女の人はどうしてダンスを習っていますか。
+
+Options:
+1. ダンスが好きだから
+2. ダンスを教える必要があるから
+3. ダイエットがしたいから
+4. ストレスを軽減したいから
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人はどうしてこの店で野菜を買いませんか。
+
+Conversation:
+あれ、野菜はないの。
+うん、どうして高いから。
+いやそんなに高くはないと思うよ、新鮮そうだしこの店サービスも悪くないよね、店員さんも親切だしうん。
+そうなんだけど父がたくさん送ってくるのよ、趣味で作ってるから。
+へえいいね。
+
+Question:
+女の人はどうしてこの店で野菜を買いませんか。
+
+Options:
+1. 高いから
+2. 新鮮ではないから
+3. サービスが悪いから
+4. 自分で野菜を育てているから
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+アニメ賞の会場で案内を聞いています。 今すぐ予約すれば何時からの賞が見られますか。
+
+Conversation:
+皆様おはようございます。本日は朝早くから来ていただきありがとうございます。ただいまからアニメシのご案内をいたします。本日のアニメショーは10時、11時、13時、14時の4回行われます。10時と13時はいっぱいになっておりますが、11時と14時の会はまだ少し余りがあります。会場でも予約ができますので、ご覧になる方は予約をお願いいたします。
+じゃあすぐ予約しよう。
+うん、そうだね。今すぐ予約すれば何時からの賞が見られますか。
+
+Question:
+今すぐ予約すれば何時からの賞が見られますか。
+
+Options:
+1. 10時
+2. 11時
+3. 13時
+4. 14時
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人は今年どうして国へ帰らないのですか。
+
+Conversation:
+りんさん、今年はいつ国へ帰るの。
+今年は帰りません。
+そう、仕事が忙しいの。
+かない。
+いえ、今年は国から友達が来るので、一緒に旅行しようと思っているんです。
+そう、ご両親はりんさんに会いたいでしょうね。
+それはまた来年。
+
+Question:
+女の人は今年どうして国へ帰らないのですか。
+
+Options:
+1. 仕事が忙しいから
+2. 友達と旅行するから
+3. 親戚に会うから
+4. 費用がかかるから
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+男の人はどんな時お弁当を作りますか。
+
+Conversation:
+そのお弁当を自分で作ったんですか。
+そう、毎日はできないけど、外で食べるのは高いからね。
+朝作るの。
+うんでも、大体前の日の晩ご飯で残ったものを入れるだけだから、そんなに時間はかからないよ。
+ふーん、晩ご飯も自分で作るんだから、前の日に外で食べたらお弁当も作らないんだ。
+そうなんだ。
+
+Question:
+男の人はどんな時お弁当を作りますか。
+
+Options:
+1. 毎日
+2. 外で食べてしまう時
+3. 晩ご飯の残り物がある時
+4. 週末に
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+男の人はどうして卵を食べませんか。
+
+Conversation:
+遠慮しないで食べてね。
+あれ、卵嫌い？
+好きだよ。
+お腹いっぱいいや。
+そうじゃないけど、先週から体の調子が悪くて病院に行ったんだ。
+それで病院で卵はあまり食べないでって言われてな。
+だからそうなの。
+知らなかったから。
+大丈夫だよ、こっちの野菜料理いっぱい食べるよ。
+
+Question:
+男の人はどうして卵を食べませんか。
+
+Options:
+1. 卵が好きではないから
+2. 病院で言われたから
+3. お腹がいいたわからないから
+4. ダイエット中だから
+
+CorrectAnswer: 2
+</question>

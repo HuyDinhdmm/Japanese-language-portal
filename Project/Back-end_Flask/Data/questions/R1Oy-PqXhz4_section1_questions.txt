@@ -1,0 +1,238 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem one by one.
+
+Starting with Problem 1. It's a conversation between a man and a doctor. The man has a headache and a sore throat. The doctor tells him to rest and not drink alcohol. The question is asking what the man should not do today. The options are about not drinking, not going to dinner, not taking medicine, and not resting. The correct answer is not drinking alcohol, which is option 2.
+
+Moving to Problem 2. A man is asking where to park. The options are the building front, pool front, pond area, and street. The correct place is the building front, so option 1.
+
+Problem 3 is a phone call between a mother and son. The mother asks the son to check the air conditioner. The son needs to do this first, so the correct answer is option 1.
+
+Problem 4 is about classroom assignments. The person is number 53, so they go to classroom 303, which is option 3.
+
+Problem 5 involves a conversation about meeting preparations. The woman needs to prepare the video, so the correct answer is option 2.
+
+Problem 6 is about exam rules. Students can use their own notes but not dictionaries. The correct answer is option 1.
+
+Problem 7 is a conversation where the woman is going to the department store first, so the correct answer is option 1.
+
+Problem 8 is about returning a DVD. The correct answer is option 1, returning the DVD.
+
+I need to make sure each question follows the correct format, with exactly 4 options and the right correct answer. I'll structure each question accordingly, removing any unnecessary phrases and ensuring clarity.
+</think>
+
+<question>
+Introduction:
+1番医者と病気の人が話しています。
+
+Conversation:
+男の人が今日してはならないことは何ですか。
+こんにちはどうしましたか。
+昨日から頭が痛くて喉も痛いんです。
+そうですか、じゃあちょっと喉を見ましょうね。
+ああ喉がすごく赤くなっていますね。
+風ですねやっぱりそうですか。
+薬をあげますから、今日は薬を飲んでゆっくり寝てください。
+いやあ、これから仕事があって夜も会社の人と晩御飯を食べに行くんです。
+あまり良くないですね、ご飯を食べに行くのは構いませんがお酒は飲まないようにしてくださいね。
+はい、わかりました。
+
+Question:
+男の人が今日してはならないことは何ですか。
+
+Options:
+1. 駅に荷物を忘れること
+2. お酒を飲むこと
+3. 薬を飲むこと
+4. 仕事に行くこと
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+2番男の人が話しています。
+
+Conversation:
+車はどこに止めたらいいですか。
+お車の方にお願いいたします。
+駐車場は建物の前にございます。
+プールの前や池のそばにはお車を止めないでください。
+また近所の方が困るので道にも止めないようにしてください。
+よろしくお願いいたします。
+
+Question:
+車はどこに止めたらいいですか。
+
+Options:
+1. 駐車場
+2. プールの前
+3. 池のそば
+4. 道
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+3番お母さんが息子に電話をしています。
+
+Conversation:
+男の子はまず何をしなければなりませんか。
+かもしもしお母さんだけどちょっと頼みたいことがあるの。
+うん、何？
+お母さんの部屋のクーラーがついたままかもしれないの。
+すぐに見てきてくれる。
+うん、分かった。
+高一、何時頃出かけるの？
+もうすぐ出るよ。
+そう、出かける時は家の鍵と窓の鍵しっかり閉めてね。
+部屋の電気も消すのよ。
+
+Question:
+男の子はまず何をしなければなりませんか。
+
+Options:
+1. クーラーをチェックする
+2. 鍵を閉める
+3. 電気を消す
+4. クーラーを止める
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+4番先生が説明しています。
+
+Conversation:
+53番の人はどの教室に行きますか。
+おはようございます。
+これから英語の試験を始めますが、人が多いので301からが304の教室に分かれて試験します。
+皆さん番号が書いてある紙を持っていますね。
+今からその番号と教室を言いますから、よく聞いてください。
+えっと、1番から30番の人は301に行ってください。
+31番から50番の人は302に。
+51番から80番の人は303に。
+81番から115番の人は304に言います。
+
+Question:
+53番の人はどの教室に行きますか。
+
+Options:
+1. 301
+2. 302
+3. 303
+4. 304
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+5番女のと男の人が話しています。
+
+Conversation:
+女の人はこれから何をしますか。
+部長会議の準備ですが、あと何をすればいいですか。
+そうだな、コンピューターは準備したよね。
+はい、あそこだ。
+ビデオを準備してくれる。
+ビデオですか、分かりました。
+あとは何かありますか。
+うーん、大丈夫だよ。
+はいじゃあ最後にお 茶の準備をしますね。
+ああ、お茶は鈴木さんに頼んだからしなくてもいいよ。
+ありがとう。
+
+Question:
+女の人はこれから何をしますか。
+
+Options:
+1. ビデオを準備する
+2. コンピューターを準備する
+3. 部長会議の準備をする
+4. お茶を準備する
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+6番先生が学生に話しています。
+
+Conversation:
+学生は試験の時何を使ってもいいですか。
+えっと、試験についてちょっとお話したいと思います。
+試験はノートを見て受けてもいいです。
+ただしノートは必ず自分で書いたものにし てください。
+友達のノートをコピーしたり、授業でもらったプリントをノートに貼ったりしたものはダメです。
+試験中に皆さんのノートをチェックしますからね、注意してください。
+あと、皆さんはよく辞書を使ってい ますが、試験中は使わないで ください。
+
+Question:
+学生は試験の時何を使ってもいいですか。
+
+Options:
+1. 自分で書いたノート
+2. 友達のノート
+3. 辞書
+4. プリント
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+7番女のと男の人が話しています。
+
+Conversation:
+女の人はこの後まず何をしますか。
+お先に失礼します。
+今日は早いね、どこか行くの？
+ええ、これからデパートに行くんです。
+そうんだねえ、明日の夜は暇ですか。
+暇ですよ。
+じゃあ明日の夜そばを食べに行こうよ。
+明日は僕がお金払うよ。
+いいんですか、ありがとう。
+だからさ、これ手伝ってくれない？
+えーデパート閉まっちゃいますよ。
+お願い、じゃあ1時間だけです。
+よ。
+
+Question:
+女の人はこの後まず何をしますか。
+
+Options:
+1. デパートに行く
+2. そばを食べに行く
+3. お金を払う
+4. 1時間だけ手伝う
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+8番女の人が山田さんの電話にメッセージを残しました。
+
+Conversation:
+山田さんはこれから何をしなければなりませんか。
+もしもし山田様のおタでしょうか。
+こちらはレンタルショップ南です。
+この間山田様がお借りになったDVDがまだ返されていないので電話をしました。
+DVDは5日借りることができますが、山田様は7日間借りていらっしゃいます。
+2週間を過ぎると次のDVDが借りられなくなります。
+またお金を3000円払っていただきますので、注意してください。
+
+Question:
+山田さんはこれから何をしなければなりませんか。
+
+Options:
+1. DVDを返す
+2. お金を払う
+3. 次のDVDを借りる
+4. 2週間待つ
+
+CorrectAnswer: 1
+</question>

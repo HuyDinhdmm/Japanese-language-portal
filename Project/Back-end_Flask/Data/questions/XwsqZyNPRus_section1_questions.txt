@@ -1,0 +1,288 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem one by one.
+
+Starting with Problem 1. The introduction is about a phone call between a man and a woman. The conversation revolves around shopping items. The question is asking what the man is buying. The options are four items: milk, yogurt, vegetable juice, and bread. The correct answer is milk, which is option 1.
+
+Moving on to Problem 2. This is a conversation between a student and a professor about helping with a research meeting. The question is about what time the student will arrive. The options are 1 hour, 30 minutes, 2 hours before, and just before it starts. The correct answer is 1 hour before, which is option 1.
+
+Problem 3 is about two people choosing seats at a movie theater. They discuss sitting in the front, middle, or back. The correct answer is the middle, which is option 2.
+
+Problem 4 involves a teacher advising students on what to wear for a mountain climb. The options include easy clothes, a skirt, a hat, and a jacket. The correct answer is easy clothes, option 1.
+
+Problem 5 is an exercise demonstration. The question is about the shape of the exercise. The options describe different positions. The correct answer is option 1, about lifting the left leg straight.
+
+Problem 6 is a conversation about someone struggling with a new computer. The options are about where to get help. The correct answer is option 3, asking Shirakawa.
+
+Problem 7 is about two people deciding where to go first. The options include the airport, a convenience store, and a gas station. The correct answer is the airport, option 1.
+
+Problem 8 is a meeting preparation scenario. The question is about what the woman does first. The options include setting the aircon, copying data, and eating lunch. The correct answer is setting the aircon, option 1.
+
+I need to make sure each question follows the correct format, with exactly four options and the right correct answer. I'll structure each question accordingly, removing any unnecessary phrases and ensuring clarity.
+</think>
+
+<question>
+Introduction:
+1番電話で男の人と女の人が話しています。
+
+Conversation:
+男の人は何を買いますか
+今駅前だけど何か買っていくものある
+あ、ちょうどよかった牛乳を買ってきてくれる
+2本
+それとパン
+ああ、明日の朝のだね
+ヨーグルトは買ってきてあるわ
+あと野菜ジュースもお願い
+そんなに持てないよ
+重いから
+牛乳は1本じゃだめそう
+じゃあ1本でいいわよ
+ろしくね
+
+Question:
+男の人は何を買いますか
+
+Options:
+1. 牛乳を買います
+2. ヨーグルトを買います
+3. 野菜ジュースを買います
+4. パンを買います
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+2番大学で学生と先生が話しています。
+
+Conversation:
+先生、明日研究会のお手伝いをするように言われたんですが
+始まる2時間ぐらい前に来ればいいですか
+ああ、研究会は3時からですが
+そんなに早くなくてもいいですよ
+そうですか
+講師の先生には30分前に来てくださいとお願いしているから
+それまでに来てくれないと困るけどね
+はい
+じゃあ1時間前に来てお手伝いって何をすればいいですか
+受け付けと資料のコピーをお願いしたいんだ
+資料のコピーもですか
+じゃあもう少し早く来た方がいいや
+そんなに多くないから
+すぐにできるでしょう
+大丈夫だよ
+
+Question:
+学生は明日何時に来ますか
+
+Options:
+1. 1時間前に
+2. 30分前に
+3. 2時間前に
+4. 研究会の開始時刻に
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+3番映画館で女の人と男の人が話しています。
+
+Conversation:
+前の方に行こう
+ええ
+前の席は音が大きいから嫌だよ
+じゃあこの辺にする
+真ん中の方が見やすいから
+うーん
+こっちにしようよ
+途中でトイレに行きたくなっても
+みんなの邪魔にならないし
+トイレは始まる前に行っておけばいいでしょ
+映画は見やすいのが1番よ
+分かった
+じゃあそうしよう
+
+Question:
+2人はどの席に座りますか
+
+Options:
+1. 前の方
+2. 真ん中
+3. この辺
+4. トイレ近く
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+4番校で先生が学生に話しています。
+
+Conversation:
+学生は明日どんな服装で来ますか
+明日は山に登りますから
+動きやすい服装で来てください
+スカートではなくズボンがいいでしょう
+明日も暑くていい天気になりそうですが
+山の上では短いズボンだと寒いですよ
+上着も必要です
+着てこなくてもいいですが
+鞄に入れておいてください
+あと帽子も忘れないでくださいね
+それから鞄は手で持たなくてもいいものに
+してください
+
+Question:
+学生は明日どんな服装で来ますか
+
+Options:
+1. 動きやすい服装
+2. スカート
+3. 上着
+4. 帽子
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+5番テレビで男の人が話しています。
+
+Conversation:
+膝が痛いという人が多いようですね
+そういう人はこんな運動をやるといいですよ
+では一緒にやってみましょう
+まず椅子に座って
+両手で椅子をしっかり持ってください
+そして左足を前に上げてください
+足はまっすぐですよ
+左足だけですよ
+そのまま動かないでください
+1、2、3、4、5
+ではゆっくり足を下ろしてください
+同じように右足でも行います
+左右5回ずつ
+朝晩続けてくださいね
+
+Question:
+どんな形になりますか
+
+Options:
+1. 足をまっすぐに上げる
+2. 足を曲げて上げる
+3. 足を横に上げる
+4. 足を後ろに上げる
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+6番男の人と女の人が話しています。
+
+Conversation:
+鈴木さん新しいパソコンを買ったそうですね
+ええ
+でも前のと違うから使い方がよくわからなくて
+本も読んでみたんですけど
+ああ
+そういう本は分かりにくいですよね
+私も何冊も読みましたよ
+パソコンを買ったお店で聞いたら
+教えてもらえるでしょうか
+ええ
+教えてくれるでしょうね
+でもそれより
+白川さんに聞いてみたらどうですか
+パソコン教室に行っていたそうですよ
+あそうですか
+じゃあそうしてみます
+
+Question:
+女の人はどうしますか
+
+Options:
+1. パソコン教室に行く
+2. 本を読む
+3. 白川さんに聞く
+4. お店で聞く
+
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+7番車の中で女の人と男の人が話しています。
+
+Conversation:
+お腹空いたね
+どこかで何か食べていこうよ
+でも飛行機の時間に遅れたら大変だから
+先に空港へ行った方がいいよ
+大丈夫よ
+食べる時間ぐらいあるよ
+でも道が混んでるかもしれないし
+じゃあ
+どこかで何か買って
+車の中で食べようよ
+そんなにお腹空いてるの
+仕方ないなあ
+じゃあ
+コンビニに寄って行こう
+でもその前に
+ガソリンスタンドで
+ガソリン入れてもいい
+ええ
+ダメだ
+メ車より人間の方が先よ
+分かったよ
+
+Question:
+2人はこの後最初にどこへ行きますか
+
+Options:
+1. 空港
+2. コンビニ
+3. ガソリンスタンド
+4. 飞行機
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+8番会社で男の人と女の人が会議の準備をしています。
+
+Conversation:
+佐藤さん
+会議の準備はできてる
+はい
+マイクは用意しました
+資料のコピーもしてあります
+じゃあ
+会議は1時からだから
+先に昼食を済ませておくといいよ
+でもまだ昼休みに
+なっていませんが
+いいよ
+会議が始まると
+休めないから
+そうですか
+じゃあ
+行ってきます
+あその前に
+会議室のエアコンをつけておいてね
+わかりました
+
+Question:
+女の人は初めに何をしますか
+
+Options:
+1. エアコンを付ける
+2. マイクを用意する
+3. 資料のコピーをする
+4. 昼食に行く
+
+CorrectAnswer: 1
+</question>

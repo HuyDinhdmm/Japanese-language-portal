@@ -1,0 +1,177 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through the transcript step by step.
+
+First, I see "問題4" which indicates the start of question 4. The instructions mention that there are no pictures, just text, and the listener should choose the correct answer from options 1 to 3. 
+
+Looking at the first part: "1番すみませんスミスは今外に出ておりますが、が、1じゃあ電話があったと伝えてください。" This seems like the introduction and the conversation for the first question. The question is about how to relay a phone message. The options are three responses, so I'll format this as a response-type question with three options.
+
+Next, "2番お代わりいかがですか。" followed by three eating-related responses. This is the second question, again with three options about eating habits.
+
+Continuing, "3番日本語がペラペラになりたいな。" with three options about Japanese language ability. Another response-type question.
+
+Then, "4番窓を開けっぱなしにして外出しないで。" with three options about drafts. This is the fourth question.
+
+The fifth part is "5番昨日の試験はすごく難しかったね。" with three responses about the exam difficulty. That's the fifth question.
+
+Next, "6番どうして刺身を食べないんですか。" with three reasons related to sashimi. Sixth question.
+
+"7番あの品物はいつお届けしたらよろしいでしょうか。" with three options about delivery timing. Seventh question.
+
+Lastly, "8番窓の外を見ていい景色だよ。" with three descriptive options about the view. Eighth question.
+
+I need to make sure each question follows the correct format, with the introduction, conversation, question, options, and correct answer. For each, I'll extract the relevant parts and assign the correct answer based on the transcript. If any options are missing, I'll create plausible ones, but in this case, all options are provided.
+
+I'll structure each question accordingly, ensuring no extra text or explanations are included. Each question will be wrapped in <question> tags with the appropriate fields filled out.
+</think>
+
+<question>
+Introduction:
+すみませんスミスは今外に出ております
+
+Conversation:
+1. じゃあ電話があったと伝えてください
+2. じゃ電話があったと伝えます
+3. じゃ電話があったと伝えるんです
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. じゃあ電話があったと伝えてください
+2. じゃ電話があったと伝えます
+3. じゃ電話があったと伝えるんです
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+お代わりいかがですか
+
+Conversation:
+1. たくさん食べています
+2. もっと食べたいです
+3. もう十分です
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. たくさん食べています
+2. もっと食べたいです
+3. もう十分です
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+日本語がペラペラになりたいな
+
+Conversation:
+1. 日本語が下手なんですね
+2. 日本語は十分話していますよ
+3. 日本語上手じゃありませんか
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 日本語が下手なんですね
+2. 日本語は十分話していますよ
+3. 日本語上手じゃありませんか
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+窓を開けっぱなしにして外出しないで
+
+Conversation:
+1. 気をつつけるよ
+2. 気がついたよ
+3. 気がつかないんだよ
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 気をつつけるよ
+2. 気がついたよ
+3. 気がつかないんだよ
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+昨日の試験はすごく難しかったね
+
+Conversation:
+1. それほど難しかったのよ
+2. それほどだったわね
+3. それほどじゃなかったわよ
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. それほど難しかったのよ
+2. それほどだったわね
+3. それほどじゃなかったわよ
+CorrectAnswer: 3
+</question>
+
+<question>
+Introduction:
+どうして刺身を食べないんですか
+
+Conversation:
+1. 刺身はあまり
+2. 刺身はおいしいから
+3. 刺身好きですか
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 刺身はあまり
+2. 刺身はおいしいから
+3. 刺身好きですか
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+あの品物はいつお届けしたらよろしいでしょうか
+
+Conversation:
+1. 明後日届いてほしいです
+2. 日までに願します
+3. 明後日届いてくれますか
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 明後日届いてほしいです
+2. 日までに願します
+3. 明後日届いてくれますか
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+窓の外を見ていい景色だよ
+
+Conversation:
+1. 本当綺麗な山が見えますね
+2. 本当綺麗な山が見せていますね
+3. 本当綺麗な山を見ることですね
+
+Question:
+一番いいものはどれですか?
+
+Options:
+1. 本当綺麗な山が見えますね
+2. 本当綺麗な山が見せていますね
+3. 本当綺麗な山を見ることですね
+CorrectAnswer: 1
+</question>

@@ -1,0 +1,173 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem one by one.
+
+Starting with problem 1. The introduction is about a man and a woman talking. The conversation is between them discussing what the man will do after soccer. The question is asking what the man will do next. The options are four, so I'll list them and identify the correct answer based on the dialogue.
+
+Moving on to problem 2. It's about a woman asking where to park. The conversation gives directions, and the question is where she decides to park. Again, four options, so I'll extract those and determine the correct one.
+
+Problem 3 is about a teacher explaining how to write names on belongings. The key points are using hiragana and drawing pictures. The question is about the correct method, so I'll list the options and pick the right one.
+
+Problem 4 discusses when to send New Year's cards. The correct time is December, so I'll structure the question with four options and mark December as correct.
+
+Problem 5 involves a conversation between a boy and his mother about where to sit. The options are different seating places, and the correct answer is the front seat.
+
+Problem 6 is about a woman deciding whether to attend a party. The conversation leads to her deciding to go, so the correct option is attending.
+
+Problem 7 explains garbage disposal rules. The key is separating burnable and non-burnable garbage, so the correct answer is that separation.
+
+Problem 8 is a conversation about what to have for dinner. The man suggests making curry, so that's the correct option.
+
+I need to ensure each question follows the specified format, with the correct number of options and the right answer indicated. I'll avoid any extra text and stick strictly to the required structure.
+</think>
+
+<question>
+Introduction:
+男の人はこれからどうしますか
+
+Conversation:
+お帰りなさいが今日はお父さんとサッカーすると言ったわよ。 今は暑くてビールでも飲みたい気分なんだよ。 それに疲れたしたいまだ当分帰ってこないからビールを飲んでちょっと寝たらそうだな。 じゃあその前にシャワー浴びてくるよ。 お風呂も湧いているわよ。 それはサッカーの後にするよ。
+
+Question:
+男の人はこれからはどうしますか
+
+Options:
+1. サッカーをする
+2. ビールを飲む
+3. 寝る
+4. シャワーを浴びる
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人は車をどこに止めますか
+
+Conversation:
+駐車場開いていますか。はいまっすぐ行って2番目を右に曲がって右側の突き当たり、その手前が開いているはずですよ。 どちらに止めてもいいんですね。いいですよ。 でも手前に入れた方が出しやすいと思いますが。 じゃあそうします。
+
+Question:
+女の人は車をどこに止めますか
+
+Options:
+1. 右側の突き当たり
+2. 手前
+3. 左側
+4. 駐車場の入口
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+名前はどのように書きますか
+
+Conversation:
+持ち物には全部名前を書いてください。 子供たちはまだ字が読めないと思いますから名前の前に何か絵を描いてください。 花でもいいし動物でも何でもいいです。 簡単なものがいいですよ。 漢字やカタカナで読めるお子さんもいらっしゃるかもしれませんが。 他の読めないお子さんのために必ずひらがなと絵を描いてくださいお願いします。
+
+Question:
+名前はどのように書きますか
+
+Options:
+1. 名前の前に絵を描く
+2. 名前の前に漢字を書く
+3. 名前の前にカタカナを書く
+4. 名前の前に数字を書く
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+必ず1日に着くようにするにはいつ出しますか
+
+Conversation:
+日本ではクリスマスカードではなく年賀状で季節の挨拶をします。 年賀状は新年の挨拶ですから1月1日に届くように12月に出します。 遅出すと1月の2日や3日についてしまいます。 受付は12月の15日から始まります日までに出せば1日に届きます。 場所によっては28日頃に出しても大丈夫です。 必ず1日に着くようにするにはいつ出しますか。
+
+Question:
+必ず1日に着くようにするにはいつ出しますか
+
+Options:
+1. 12月15日
+2. 12月28日
+3. 1月1日
+4. 1月2日
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+2人はどこに座りますか
+
+Conversation:
+お母さん僕1番前に行ってもいい。 前をよく見たいから。 あそこは危ないから小さい子は座れないのよ。 一番後ろだってよく見えるわよ。 でも前に座りたい。 運転手の後ろならいいの。 ええ仕方ないわね。 お母さんも前に座るわ。 お母さんはあそこに座るのえそうよ。 いいな。
+
+Question:
+2人はどこに座りますか
+
+Options:
+1. 一番前
+2. 一番後ろ
+3. 運転手の後ろ
+4. 中央
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+女の人はパーティーをどうしますか
+
+Conversation:
+明日のパーティー楽しみね。 それがいけなくなっちゃったんだよ。 えあなたが行くって言ったから行くことにしたのよ。 ごめんでも出張で帰れないんだよ。 じゃあ私行くのをやめるわ。 そんなこと言わないで。 妹が行きたいって言っているんだ。 連れていってよ。 仕方がないわね。
+
+Question:
+女の人はパーティーをどうしますか
+
+Options:
+1. 行く
+2. 行かない
+3. 妹と行く
+4. 出張に行く
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+ゴミはどうしなければなりませんか
+
+Conversation:
+市では死のゴミ袋を買ってその中にゴミを入れなければなりません。 ゴミは燃えるゴミと燃えないゴミに分けて当日の朝8時半までにマンションのゴミ置場に置いてください。 絶対に前の晩や屋違う曜日に出さないでください。 もっとも違うゴミが混ざっていると持っていってもらえませんから。 きちんと分けてください。 燃えるゴミは月曜と木曜。 燃えないゴミは火曜と金曜です。 またその他のゴミですが新聞紙や便缶などリサイクルゴミは第1と第2の水曜日に出してください。 また机などの家具は市役所に電話してください。 大きさによって違いますが500円から2000円ほどお金を取られますですから。 売れそうなものはリサイクルショップで売った方がいいです。
+
+Question:
+ゴミはどうしなければなりませんか
+
+Options:
+1. 燃えるゴミと燃えないゴミに分ける
+2. 毎日同じ時間に出す
+3. リサイクルゴミは火曜に出す
+4. 家具は市役所に電話する
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+夕食はどうしますか
+
+Conversation:
+もう6時だよ夕食なに。 まだ仕事が終わらないのよ。 それから買い物に行くから。 じゃあ僕が行ってくる。 何を買ってきたらいい。 買ってきてすぐに食べられるものにしてくれない。 刺身とかサラダとか3つぐらい買ってくればいいわ。 買ったものをそのまま食べたくないよ。 僕がカレーでも作ろうか。 無理しないで食べに行ったっていいんだから。大丈夫だよ。
+
+Question:
+夕食はどうしますか
+
+Options:
+1. 刺身とサラダを買う
+2. カレーを作る
+3. 外で食べる
+4. 何も作らない
+
+CorrectAnswer: 2
+</question>

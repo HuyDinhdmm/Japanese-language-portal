@@ -1,0 +1,233 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me go through each problem one by one.
+
+Starting with problem 1. It's an example, so I should ignore it as per the rules. Moving on to problem 2. The introduction is about a man and a woman talking at a company. The conversation is about a camera. The question is asking what the man does with the camera. The options are four, so I'll format it with four options and the correct answer.
+
+Next is problem 3. It's set in a supermarket. The man is talking on the phone about what to buy. The question is about what he buys. Again, four options, so same structure.
+
+Problem 4 is in a university setting. The professor is talking about how to submit reports. The question is about the submission method. Four options again.
+
+Problem 5 is at a school. The man and woman are discussing their plans. The question is about what the man does next. Four options.
+
+Problem 6 is a phone conversation about arriving at the station. The question is about what the man does first. Four options.
+
+Problem 7 is in a store, discussing reservations. The question is about when the man visits. Four options.
+
+Problem 8 is at a company. The man and woman are talking about cleaning up. The question is about what the woman must do. Four options.
+
+Problem 9 is between a man and woman discussing garbage. The question is about what the man does with the garbage. Four options.
+
+I need to make sure each question has exactly four options and the correct answer is specified. Also, remove any unrelated phrases and avoid adding extra text. I'll structure each question with the introduction, conversation, question, options, and correct answer as specified.
+</think>
+
+<question>
+Introduction:
+会社で男の人と女の人が話しています。男の人はカメラをどうしますか?
+
+Conversation:
+田中さん、このカメラ使う?僕はもう使い終わったからどうぞ。  
+あ、実は別のカメラを貸してもらったから大丈夫です。ありがとうございます。  
+そうなんだ。じゃあどこにしまえばいいかな?棚に置いておけばいい。  
+棚の上に箱があるのでその箱に入れていただけますか? うん、分かった。  
+あ、そういえばさっき山田さんがカメラを使いたいって言っていましたよ。  
+そうなんだ。今日の午後に写真を撮ると言っていたからすぐ渡した方がいいと思います。 うん。わかった。
+
+Question:
+男の人はカメラをどうしますか?
+
+Options:
+1. 山田さんに渡します  
+2. 棚の上の箱に入れます  
+3. 自分で使います  
+4. 別のカメラを借ります  
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+スーパーで男の人が女の人に電話しています。男の人は何を買って帰りますか?
+
+Conversation:
+今スーパーにいるんだけど何かいる?  
+そうだな。アイスクリームが食べたいな。  
+分かった。あ、牛乳が安くなってるよ。  
+昨日買っちゃったからいらないよ。  
+あ、そうだ。美味しそうな魚ある?  
+残念ながら魚は全部売れちゃって置いていないよ。  
+朝ごはに食べるパンはいる?  
+そうね。今朝全部食べちゃったからお願い。
+
+Question:
+男の人は何を買って帰りますか?
+
+Options:
+1. アイスクリーム  
+2. 魚  
+3. 牛乳  
+4. パン  
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+大学で先生が話しています。レポートはどうやって出さなければなりませんか?
+
+Conversation:
+この授業のレポートの締め切りは今月の25日です。  
+20日から25日まで私の研究室の前に箱を置いておくのでその箱に入れてください。  
+最近メールでレポートを送る人がいますがそのレポートは受け取りません。  
+またレポートをなくしてしまうかもしれないので、私に直接渡すのもやめてください。  
+25日を過ぎたら研究室の前の箱を片付けます。  
+締め切りを過ぎたら私に相談しても絶対に受け取りませんからその時は諦めてください。
+
+Question:
+レポートはどうやって出さなければなりませんか?
+
+Options:
+1. メールで送る  
+2. 研究室の箱に入れる  
+3. 直接先生に渡す  
+4. 25日までに提出する  
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+学校で男の人と女の人が話しています。男の人はこの後何をしますか?
+
+Conversation:
+あ、佐藤さん、もう帰るの?  
+図書館に本を返したら帰ろうと思ってるんだ。  
+そうなんだ。今から駅前の喫茶店に行くんだけど一緒に行かない?  
+え?あそこの喫茶店?ずっと行きたいと思ってた。  
+よかった。じゃあ行こう。  
+うん。  
+先に図書館に本を返しに行ってくるから、この教室で待ってて。  
+一緒に図書館に行こうか。  
+うん。すぐ終わるから大丈夫。
+
+Question:
+男の人はこの後何をしますか?
+
+Options:
+1. 図書館に行って本を返す  
+2. 喫茶店に行く  
+3. 教室で待つ  
+4. 帰る  
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+電話で男の人と女の人が話しています。男の人はこの後まず何をしますか?
+
+Conversation:
+もしもし。佐藤さん、今どこ?  
+今駅に着いたところだよ。  
+そうか。実は電車に乗り遅れちゃってバスで行くことにしたんだ。  
+そうなんだ。あとどのくらいかかるの?  
+うーん。そうだなあ。  
+次のバスが10分後に来るから、そのバスに乗って、  
+ここまでバスで何分かかるかバスに乗る前にちゃんと調べてみてよ。  
+分かったらまた電話して。  
+うん、分かった。  
+それまで本屋で待ってるよ。  
+うん。ごめんね。
+
+Question:
+男の人はこの後まず何をしますか?
+
+Options:
+1. バスに乗る  
+2. 本屋で待つ  
+3. 電車に乗る  
+4. 駅で待つ  
+
+CorrectAnswer: 1
+</question>
+
+<question>
+Introduction:
+お店の人と男の人が電話で話しています。男の人はいつお店に行きますか?
+
+Conversation:
+お電話ありがとうございます。日本料理さです。  
+あの今日7時に予約していた中と申します。  
+すみません。日を変えたいんですが明日の6時は空いてますか?  
+少々お待ちください。  
+申し訳ありません。明日の6時はもう予約がいっぱいなので。  
+そうですか。8時はどうですか?  
+8時ですね。6名様分のお席ならご用意できますが  
+うーん。8人なんです。  
+でしたら明後日の6時はいかがでしょうか?  
+8名様分のお席をご用意できます。  
+ああ。じゃあその日にお願いします。  
+かしこまりました。
+
+Question:
+男の人はいつお店に行きますか?
+
+Options:
+1. 今日の7時  
+2. 明日の6時  
+3. 明日の8時  
+4. 明後日の6時  
+
+CorrectAnswer: 4
+</question>
+
+<question>
+Introduction:
+会社で男の人と女の人が話しています。女の人はこれから何をしなければなりませんか?
+
+Conversation:
+会議お疲れ様。会議室の掃除お願いできるかな?  
+はい。もう机と椅子は片付けてしまいましたから、あとはゴミを捨てるだけです。  
+ありがとう。僕がゴミを捨てに行くから加藤さんはあそこのコップを洗っておいてくれる?  
+はい。  
+あ、会議室の鍵は閉めておいた方がいいでしょうか?  
+会議室はまだ使う人がいるみたいだからそのままでいいと思うよ。  
+そうなんですか。知らなかったから机と椅子を片付けてしまいました。  
+いいよ、いいよ。気にしないで。じゃあよろしく。
+
+Question:
+女の人はこれから何をしなければなりませんか?
+
+Options:
+1. 会議室の鍵を閉める  
+2. コップを洗う  
+3. ゴミを捨てる  
+4. 机と椅子を片付ける  
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+女の人と男の人が話しています。男の人はゴミをどうしますか?
+
+Conversation:
+すみません。ゴミのことなんですが。  
+え、ゴミ?今日は月曜日だからプラスチックのゴミを出す日ですよね。  
+今日は月曜日ですが休みなのでゴミを集めないんです。  
+だからプラスチックのゴミは明日出さなきゃいけないんですよ。  
+ああ、すみません。間違えてしまって。  
+ゴミ捨テに置いたままにしないでくださいね。猫やカラスが来て汚んです。  
+はい。すみません。  
+気をつけてくださいね。
+
+Question:
+男の人はゴミをどうしますか?
+
+Options:
+1. 今日出す  
+2. 明日出す  
+3. 収集所に連れて行く  
+4. 収集箱に入れる  
+
+CorrectAnswer: 2
+</question>

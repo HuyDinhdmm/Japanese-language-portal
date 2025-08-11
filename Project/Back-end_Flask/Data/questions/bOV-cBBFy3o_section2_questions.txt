@@ -1,0 +1,61 @@
+<think>
+Alright, I need to extract the JLPT listening comprehension questions from the given transcript. Let me read through the transcript carefully.
+
+First, I notice that the transcript starts with some instructions about the test, like "問題2ではまず質問を聞いてください" which I should ignore. My focus is on the actual questions and their components.
+
+Looking at the first part, it mentions "女の人と男の人が話しています。女の人はどうして引っ越しをしますか。" followed by a conversation. Then it asks the same question again, which seems to be the actual question. The options are provided as 1から4, so I need to extract each part accordingly.
+
+For the first question, the introduction is about a woman moving, the conversation is between her and a man discussing the reasons. The question is why she's moving, and the options are four possibilities. I'll structure this into the first <question> block.
+
+Next, the second part starts with "男の人と女の人が学校で話しています。男の人はどうして1時間目の授業を休みましたか。" followed by their conversation. Again, the question is repeated, and the options are four. I'll create the second <question> block with this information.
+
+I need to ensure each question has exactly four options and the correct answer is specified. Also, I must avoid any extra text or explanations, just the structured data as per the rules.
+
+I think I've captured both questions correctly, each with their respective introductions, conversations, questions, options, and correct answers. I'll make sure there are no headers or unnecessary phrases included.
+</think>
+
+<question>
+Introduction:
+女の人はどうして引っ越しをしますか。
+
+Conversation:
+女：来週の日曜日引っ越しを手伝ってくれない？いいけど、また引っ越すんだね。  
+男：部屋が狭いの？  
+女：うん、部屋の大きさも場所も問題ないんだけど、建物が古くて嫌なんだ。最近近所の人と友達になったから出ていくのは残念なんだけど。  
+
+Question:
+女の人はどうして引っ越しをしますか？
+
+Options:
+1. 部屋が狭いから  
+2. 建物が古いから  
+3. 近所がうるさいから  
+4. 家賃が高いから  
+
+CorrectAnswer: 2
+</question>
+
+<question>
+Introduction:
+男の人はどうして1時間目の授業を休みましたか。
+
+Conversation:
+男：1時間目出られなかったよ。  
+女：電車が遅れたんですか？  
+男：他にも来てない人いたようん。僕はバスなんだ。  
+女：じゃあ寝坊？  
+男：うん、財布を忘れてしまって。ええ、大変。  
+女：それで家まで取りに戻ったんだ？  
+男：なんだ、バスの中に忘れたのかと思った。びっくりした。  
+
+Question:
+男の人はどうして1時間目の授業を休みましたか？
+
+Options:
+1. 電車が遅れたから  
+2. 財布を忘れたから  
+3. 寝坊したから  
+4. 病気だったから  
+
+CorrectAnswer: 3
+</question>
