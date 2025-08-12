@@ -215,19 +215,6 @@ npm run test:coverage
 - [x] YouTube transcript processing
 - [x] AI question generation
 
-### Phase 2 (Next) 🚧
-- [ ] Advanced spaced repetition algorithm
-- [ ] Speech recognition for pronunciation
-- [ ] Kanji stroke order animations
-- [ ] Social learning features
-- [ ] Mobile app development
-
-### Phase 3 (Future) 📋
-- [ ] Multi-language support
-- [ ] Advanced analytics and insights
-- [ ] Integration with external learning platforms
-- [ ] Machine learning model training
-- [ ] Community features and forums
 
 ## 🤝 Contributing
 
