@@ -7,6 +7,11 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0+-000000.svg)](https://flask.palletsprojects.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6.svg)](https://typescriptlang.org)
 
+##  Demo
+
+[![Watch the demo video](https://img.youtube.com/vi/K0jIySyeroo/0.jpg)](https://www.youtube.com/watch?v=K0jIySyeroo)
+
+
 ## 🌟 Features
 
 ### 📚 Core Learning Features
